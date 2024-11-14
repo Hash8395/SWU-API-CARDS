@@ -1,0 +1,1227 @@
+{
+    "total_cards": 49,
+    "data": [
+        {
+            "Set": "SOR",
+            "Number": "120",
+            "Name": "Academy Training",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "LEARNED"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "David Buisan",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.09",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/120.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "175",
+            "Name": "Armed to the Teeth",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "SUPPLY",
+                "WEAPON"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"On Attack: Give another friendly unit +2/+0 for this phase.\"\nSmuggle [C=4 Aggression] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "0.30",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/175.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "224",
+            "Name": "Boba Fett's Armor",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "ITEM",
+                "ARMOR"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "Attach to a non-Vehicle unit. \nIf attached unit is Boba Fett and damage would be dealt to him, prevent 2 of that damage.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "1.13",
+            "FoilPrice": "1.49",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/224.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "123",
+            "Name": "Bounty Hunter's Quarry",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "1",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Search the top 5 cards of your deck, or 10 cards instead if this unit is unique, for a unit that costs 3 or less and play it for free.\" (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Ignacio Bazan Lazcano",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "0.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/123.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "038",
+            "Name": "Brutal Traditions",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "LEARNED"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "2",
+            "FrontText": "Action: If an enemy unit was defeated this phase, play this upgrade from your discard pile (paying its cost).",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Eslam AboShady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.31",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/038.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "176",
+            "Name": "Death Mark",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "2",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Draw 2 cards.\" (When this unit is defeated or captured, its opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Aitor Prieto",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.14",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/176.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "070",
+            "Name": "Devotion",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "Attached unit gains RESTORE 2. (When this unit attacks, heal 2 damage from its controller's base.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Liana Anatolevich",
+            "VariantType": "Normal",
+            "MarketPrice": "0.28",
+            "FoilPrice": "0.30",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/070.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "071",
+            "Name": "Electrostaff",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "Attach to a non-VEHICLE unit.\nWhile attached unit is defending, the attacker gets -1/-0.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.86",
+            "FoilPrice": "1.20",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/071.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "222",
+            "Name": "Enticing Reward",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "1",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Search the top 10 cards of your deck for 2 non-unit cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.) Then, if this unit isn't unique, discard a card from your hand.\"",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/222.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "072",
+            "Name": "Entrenched",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "CONDITION"
+            ],
+            "Cost": "2",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "Attached unit can't attack bases.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Borja Pindado",
+            "VariantType": "Normal",
+            "MarketPrice": "0.25",
+            "FoilPrice": "0.35",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/072.png"
+        },
+        {
+            "Set": "TSOR",
+            "Number": "T01",
+            "Name": "Experience",
+            "Type": "Token Upgrade",
+            "Traits": [
+                "LEARNED"
+            ],
+            "Cost": "0",
+            "Power": "1",
+            "HP": "1",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Mona Finden",
+            "VariantType": "Normal",
+            "MarketPrice": "0.50",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TSOR/T01.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "137",
+            "Name": "Fallen Lightsaber",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON",
+                "LIGHTSABER"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "Attach to a non-VEHICLE unit. \nIf attached unit is a FORCE unit, it gains: \"On Attack: Deal 1 damage to each ground unit the defending player controls.\"",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Milos Slavkovic",
+            "VariantType": "Normal",
+            "MarketPrice": "4.98",
+            "FoilPrice": "5.63",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/137.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "069",
+            "Name": "Foundling",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "MANDALORIAN"
+            ],
+            "Cost": "1",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "Attached unit gains the Mandalorian trait.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Kevin Libranda",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.09",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/069.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "193",
+            "Name": "Frozen in Carbonite",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "CONDITION"
+            ],
+            "Cost": "3",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attach to a non-leader unit. \nAttached unit can't ready. \nWhen Played: Exhaust attached unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.14",
+            "FoilPrice": "0.34",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/193.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "173",
+            "Name": "Guild Target",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "0",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Deal 2 damage to a base. If this unit is unique, deal 3 damage instead.\" (When this unit is defeated or captured, its opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Omercan Cirit",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "0.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/173.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "121",
+            "Name": "Hardpoint Heavy Blaster",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "MODIFICATION",
+                "WEAPON"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "Attach to a VEHICLE unit.\nAttached unit gains: \"On Attack: If this unit isn't attacking a base, you may deal 2 damage to a unit in the defender's arena.\"",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.17",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/121.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "155",
+            "Name": "Heroic Resolve",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "1",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "Attached unit gains: \"Action [C=2, defeat a Heroic Resolve on this unit]: Attack with this unit. It gets +4/+0 and gains Overwhelm for this attack.\"",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Kevin Libranda",
+            "VariantType": "Normal",
+            "MarketPrice": "0.43",
+            "FoilPrice": "0.98",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/155.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "174",
+            "Name": "Hotshot DL-44 Blaster",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON"
+            ],
+            "Cost": "1",
+            "Power": "2",
+            "HP": "0",
+            "FrontText": "Attach to a non-Vehicle unit. \nSmuggle [C=3 Cunning] \nWhen played using Smuggle: Attack with attached unit.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Eslam AboShady",
+            "VariantType": "Normal",
+            "MarketPrice": "3.08",
+            "FoilPrice": "3.32",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/174.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "072",
+            "Name": "Imprisoned",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "CONDITION",
+                "LAW"
+            ],
+            "Cost": "2",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attach to a non-leader unit. \nAttached unit loses its current abilities and can't gain abilities.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Kyle Petchock",
+            "VariantType": "Normal",
+            "MarketPrice": "0.25",
+            "FoilPrice": "0.51",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/072.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "166",
+            "Name": "Infiltrator's Skill",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "LEARNED"
+            ],
+            "Cost": "1",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "Attached unit gains SABOTEUR. (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Saboteur"
+            ],
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.14",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/166.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "104",
+            "Name": "Inspiring Mentor",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "Attach to a non-Vehicle unit. \nAttached unit gains: \"On Attack/When Defeated: Give an Experience token to another friendly unit.\"",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.36",
+            "FoilPrice": "0.40",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/104.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "054",
+            "Name": "Jedi Lightsaber",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON",
+                "LIGHTSABER"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "Attach to a non-VEHICLE unit.\nIf attached unit is a FORCE unit, it gains: \"On Attack: Give the defender -2/-2 for this phase.\"",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "3.01",
+            "FoilPrice": "4.47",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/054.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "225",
+            "Name": "Jetpack",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "ITEM",
+                "ARMOR"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "0",
+            "FrontText": "Attach to a non-Vehicle unit. \nWhen Played: Give a Shield token to attached unit. At the start of the regroup phase, defeat that token.\nSmuggle [C=4 Cunning]",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "James Daly",
+            "VariantType": "Normal",
+            "MarketPrice": "0.15",
+            "FoilPrice": "0.28",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/225.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "124",
+            "Name": "Legal Authority",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "LAW"
+            ],
+            "Cost": "2",
+            "Power": "0",
+            "HP": "2",
+            "FrontText": "Attach to a friendly unit. \nWhen Played: Attached unit captures an enemy non-leader unit with less power than it. (Put the captured card facedown under attached unit until attached unit leaves play.)",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Christian Papazoglakis",
+            "VariantType": "Normal",
+            "MarketPrice": "0.25",
+            "FoilPrice": "0.52",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/124.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "053",
+            "Name": "Luke's Lightsaber",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON",
+                "LIGHTSABER"
+            ],
+            "Cost": "2",
+            "Power": "3",
+            "HP": "1",
+            "FrontText": "Attach to a non-VEHICLE unit.\nWhen Played: If attached unit is Luke Skywalker, heal all damage from him and give a Shield token to him.",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.34",
+            "FoilPrice": "50.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/053.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "152",
+            "Name": "Mace Windu's Lightsaber",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON",
+                "LIGHTSABER"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "Attach to a non-Vehicle unit. \nWhen Played: If attached unit is Mace Windu, draw 2 cards.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Milos Slavkovic",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/152.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "073",
+            "Name": "Mandalorian Armor",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "ITEM",
+                "ARMOR"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "3",
+            "FrontText": "Attach to a non-Vehicle unit. \nWhen Played: If attached unit is a Mandalorian, give a Shield token to it.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Christian Papazoglakis",
+            "VariantType": "Normal",
+            "MarketPrice": "0.45",
+            "FoilPrice": "0.88",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/073.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "219",
+            "Name": "On Top of Things",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "0",
+            "FrontText": "When Played: Attached unit can't be attacked this phase (unless it has Sentinel).",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Sandra Chlewi\u00f1ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/219.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "125",
+            "Name": "Price on Your Head",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "2",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Put the top card of your deck into play as a resource.\" (When this unit is defeated or captured, its opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.29",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/125.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "057",
+            "Name": "Protector",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance",
+                "Vigilance"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "1",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "Attached unit gains SENTINEL. (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Alex Accorsi",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.20",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/057.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "068",
+            "Name": "Public Enemy",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "0",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Give a Shield token to a unit.\" (When this unit is defeated or captured, its opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Denis Medri",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.09",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/068.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "069",
+            "Name": "Resilient",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "1",
+            "Power": "0",
+            "HP": "3",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.20",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/069.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "070",
+            "Name": "Resilient",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "1",
+            "Power": "0",
+            "HP": "3",
+            "FrontText": "",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.20",
+            "FoilPrice": "0.50",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/070.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "261",
+            "Name": "Rich Reward",
+            "Type": "Upgrade",
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "1",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Give an Experience token to each of up to 2 units.\" (When this unit is defeated or captured, its opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Rebecca Farrow",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.13",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/261.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "143",
+            "Name": "Ruthlessness",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "1",
+            "Power": "2",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"When this unit attacks and defeats a unit: Deal 2 damage to the defending player's base.\"",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "James Daly",
+            "VariantType": "Normal",
+            "MarketPrice": "0.38",
+            "FoilPrice": "0.76",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/143.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "053",
+            "Name": "Second Chance",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance",
+                "Vigilance"
+            ],
+            "Traits": [
+                "GAMBIT"
+            ],
+            "Cost": "4",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attach to a non-leader unit.\nAttached unit gains: \"When Defeated: For this phase, this unit's owner may play it from their discard pile for free.\"",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Ario Anindito & Annalisa Leoni",
+            "VariantType": "Normal",
+            "MarketPrice": "1.90",
+            "FoilPrice": "3.43",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/053.png"
+        },
+        {
+            "Set": "TSOR",
+            "Number": "T02",
+            "Name": "Shield",
+            "Type": "Token Upgrade",
+            "Traits": [
+                "ARMOR"
+            ],
+            "Cost": "0",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "If damage would be dealt to attached unit, prevent that damage. If you do, defeat a Shield token on it.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Francois Cannels",
+            "VariantType": "Normal",
+            "MarketPrice": "1.31",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TSOR/T02.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "214",
+            "Name": "Smuggling Compartment",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "MODIFICATION"
+            ],
+            "Cost": "1",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "Attach to a VEHICLE unit.\nAttached unit gains: \"On Attack: Ready a resource.\"",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/214.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "223",
+            "Name": "Snapshot Reflexes",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "LEARNED"
+            ],
+            "Cost": "1",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "When Played: You may attack with attached unit. (It can only attack if its ready.)",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/223.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "126",
+            "Name": "The Darksaber",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "MANDALORIAN",
+                "ITEM",
+                "WEAPON"
+            ],
+            "Cost": "4",
+            "Power": "4",
+            "HP": "3",
+            "FrontText": "Attach to a non-Vehicle unit.\nWhile playing this upgrade on a Mandalorian unit, ignore its aspect penalty.\nAttached unit gains, \u201cOn Attack: Give an Experience token to each other friendly Mandalorian unit.\u201d",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": true,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "24.16",
+            "FoilPrice": "25.28",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/126.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "251",
+            "Name": "The Mandalorian's Rifle",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "0",
+            "FrontText": "Attach to a friendly non-Vehicle unit. \nWhen Played: If attached unit is The Mandalorian, he captures an exhausted enemy non-leader unit. (Put the captured card facedown under him until he leaves play.)",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.72",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/251.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "071",
+            "Name": "Top Target",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "1",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Heal 4 damage from a unit or base. If this unit is unique, heal 6 damage instead.\" (When this unit is defeated or captured, its opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.21",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/071.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "122",
+            "Name": "Traitorous",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "5",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "When this upgrade becomes attached to a non-leader unit that costs 3 or less: Take control of that unit.\nWhen this upgrade becomes unattached from a unit: That unit's owner takes control of it.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Gretel Lusky",
+            "VariantType": "Normal",
+            "MarketPrice": "2.85",
+            "FoilPrice": "4.21",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/122.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "155",
+            "Name": "Twice the Pride",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression",
+                "Aggression"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "2",
+            "Power": "4",
+            "HP": "0",
+            "FrontText": "When Played: Deal 2 damage to attached unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/155.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "226",
+            "Name": "Unrefusable Offer",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "2",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attach to a non-leader unit. \nAttached unit gains: \"BOUNTY - Play this unit for free (under your control). It enters play ready. At the start of the regroup phase, defeat it.\"",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Denis Medri",
+            "VariantType": "Normal",
+            "MarketPrice": "0.31",
+            "FoilPrice": "0.57",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/226.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "136",
+            "Name": "Vader's Lightsaber",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON",
+                "LIGHTSABER"
+            ],
+            "Cost": "2",
+            "Power": "3",
+            "HP": "1",
+            "FrontText": "Attach to a non-VEHICLE unit.\nWhen Played: If attached unit is Darth Vader, you may deal 4 damage to a ground unit.",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.31",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/136.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "177",
+            "Name": "Vambrace Flamethrower",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "ITEM",
+                "ARMOR",
+                "WEAPON"
+            ],
+            "Cost": "3",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "Attach to a non-Vehicle unit. \nAttached unit gains: \"On Attack: You may deal 3 damage divided as you choose among enemy ground units.\"",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.93",
+            "FoilPrice": "1.42",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/177.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "074",
+            "Name": "Vambrace Grappleshot",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "ITEM",
+                "ARMOR",
+                "WEAPON"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "Attach to a non-Vehicle unit. \nAttached unit gains: \"On Attack: Exhaust the defender.\"",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.08",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/074.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "221",
+            "Name": "Wanted",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "BOUNTY",
+                "CONDITION"
+            ],
+            "Cost": "0",
+            "Power": "0",
+            "HP": "0",
+            "FrontText": "Attached unit gains: \"Bounty - Ready 2 friendly resources.\" (When this unit is defeated or captured, its opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.08",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/221.png"
+        }
+    ]
+}

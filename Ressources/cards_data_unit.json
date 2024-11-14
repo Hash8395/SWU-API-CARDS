@@ -1,0 +1,1772 @@
+{
+    "total_cards": 58,
+    "data": [
+        {
+            "Set": "SOR",
+            "Number": "097",
+            "Name": "Admiral Ackbar",
+            "Subtitle": "Brilliant Strategist",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "1",
+            "HP": "4",
+            "FrontText": "Restore 1 (When this unit attacks, heal 1 damage from your base.)\nWhen Played: You may deal damage to a unit equal to the number of units you control in its arena.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Luke Harrington",
+            "VariantType": "Normal",
+            "MarketPrice": "1.64",
+            "FoilPrice": "2.15",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/097.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "092",
+            "Name": "Admiral Yularen",
+            "Subtitle": "Advising Caution",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "REPUBLIC",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "2",
+            "HP": "5",
+            "FrontText": "Restore 1 \nEach other friendly Heroism unit gets +0/+1.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/092.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "161",
+            "Name": "Ardent Sympathizer",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "While you have the initiative, this unit gets +2/+0.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Luke Harrington",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "0.13",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/161.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "122",
+            "Name": "Arquitens Assault Cruiser",
+            "Type": "Unit",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "VEHICLE",
+                "CAPITAL SHIP"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "8",
+            "Power": "7",
+            "HP": "8",
+            "FrontText": "Ambush \nWhen this unit attacks and defeats a non-leader unit: Put the defeated unit into play as a resource under your control.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Keywords": [
+                "Ambush"
+            ],
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.41",
+            "FoilPrice": "1.02",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/122.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "095",
+            "Name": "Battlefield Marine",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "3",
+            "HP": "3",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "David Buisan",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.21",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/095.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "237",
+            "Name": "Black Sun Starfighter",
+            "Type": "Unit",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "2",
+            "FrontText": "Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Mark Zhang",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.17",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/237.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "088",
+            "Name": "Blizzard Assault AT-AT",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "8",
+            "Power": "9",
+            "HP": "9",
+            "FrontText": "When this unit attacks and defeats a unit: You may deal the excess damage from this attack to an enemy ground unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.12",
+            "FoilPrice": "0.23",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/088.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "033",
+            "Name": "Calculating MagnaGuard",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "DROID"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "4",
+            "FrontText": "When Played/When a friendly unit is defeated: This unit gains Sentinel for this phase. (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Alex Chen",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/033.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "157",
+            "Name": "Cantina Braggart",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "1",
+            "Power": "0",
+            "HP": "3",
+            "FrontText": "RAID 2 (This unit gets +2/+0 while attacking.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Raid"
+            ],
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/157.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "068",
+            "Name": "Cargo Juggernaut",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "VEHICLE",
+                "TANK"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "6",
+            "FrontText": "SHIELDED (When you play this unit, give a Shield token to it.)\nWhen Played: If you control another Vigilance unit, heal 4 damage from your base.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Shielded"
+            ],
+            "Artist": "Thomas Wievegg",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "0.23",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/068.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "066",
+            "Name": "Cargo Juggernaut",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "VEHICLE",
+                "TANK"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "6",
+            "FrontText": "Shielded (When you play this unit, give a Shield token to it.) \nWhen Played: If you control another Vigilance unit, heal 4 damage from your base.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Shielded"
+            ],
+            "Artist": "Thomas Wievegg",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.24",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/066.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "178",
+            "Name": "Cartel Spacer",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "3",
+            "FrontText": "When Played: If you control another Cunning unit, exhaust an enemy unit that costs 4 or less.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.39",
+            "FoilPrice": "0.51",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/178.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "195",
+            "Name": "Cartel Turncoat",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "1",
+            "Power": "2",
+            "HP": "3",
+            "FrontText": "Bounty - Draw a card. (When this unit is defeated or captured, your opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Bounty"
+            ],
+            "Artist": "Sebasti\u00e1n Guidobono",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.09",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/195.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "229",
+            "Name": "Cell Block Guard",
+            "Type": "Unit",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.22",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/229.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "238",
+            "Name": "Cell Block Guard",
+            "Type": "Unit",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.12",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/238.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "063",
+            "Name": "Cloud City Wing Guard",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "FRINGE",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "2",
+            "HP": "4",
+            "FrontText": "Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Tomas Oleksak",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/063.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "111",
+            "Name": "Collections Starhopper",
+            "Type": "Unit",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "Smuggle [C=3 Command] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Smuggle"
+            ],
+            "Artist": "Mark Zhang",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/111.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "109",
+            "Name": "Colonel Yularen",
+            "Subtitle": "ISB Director",
+            "Type": "Unit",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "3",
+            "FrontText": "When you play a Command unit (including this one): Heal 1 damage from your base.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": true,
+            "Artist": "David Buisan",
+            "VariantType": "Normal",
+            "MarketPrice": "0.22",
+            "FoilPrice": "0.35",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/109.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "112",
+            "Name": "Consortium StarViper",
+            "Type": "Unit",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "FRINGE",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "While you have the initiative, this unit gains RESTORE 2. (When this unit attacks, heal 2 damage from your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Christian Papazoglakis",
+            "VariantType": "Normal",
+            "MarketPrice": "0.15",
+            "FoilPrice": "0.24",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/112.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "046",
+            "Name": "Consular Security Force",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "3",
+            "HP": "7",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Rebecca Farrow",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "0.12",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/046.png"
+        },
+        {
+            "Set": "C24",
+            "Number": "006",
+            "Name": "Darth Maul",
+            "Subtitle": "Revenge At Last",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "SITH"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "5",
+            "HP": "6",
+            "FrontText": "This unit can attack 2 units instead of 1.",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Leonardo Giammichele",
+            "VariantType": "Normal",
+            "MarketPrice": "1.00",
+            "FoilPrice": "103.10",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/C24/006.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "087",
+            "Name": "Darth Vader",
+            "Subtitle": "Commanding the First Legion",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "IMPERIAL",
+                "SITH"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "5",
+            "HP": "7",
+            "FrontText": "AMBUSH\nWhen Played: Search the top 10 cards of your deck for any number of Villainy units with combined cost 3 or less and play each of them for free.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": true,
+            "Keywords": [
+                "Ambush"
+            ],
+            "Artist": "Ivan Dedov",
+            "VariantType": "Normal",
+            "MarketPrice": "51.31",
+            "FoilPrice": "60.20",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/087.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "128",
+            "Name": "Death Star Stormtrooper",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "1",
+            "Power": "3",
+            "HP": "1",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.20",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/128.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "133",
+            "Name": "Dengar",
+            "Subtitle": "The Demolisher",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "BOUNTY HUNTER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "1",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "When you play an upgrade on a unit: You may deal 1 damage to that unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": true,
+            "Artist": "Stefano Landini",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "0.35",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/133.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "181",
+            "Name": "Elite P-38 Starfighter",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "2",
+            "FrontText": "When Played/When Defeated: You may deal 1 damage to a unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Francois Cannels",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/181.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "082",
+            "Name": "Emperor's Royal Guard",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "4",
+            "FrontText": "While you control an OFFICIAL unit, this unit gains Sentinel.\nWhile you control Emperor Palpatine (as a leader or unit), this unit gets +0/+1.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "1.74",
+            "FoilPrice": "2.43",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/082.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "211",
+            "Name": "Gamorrean Guards",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "4",
+            "HP": "4",
+            "FrontText": "While you control another Cunning unit, this unit gains SENTINEL. (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Mickael Balloul",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.21",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/211.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "086",
+            "Name": "Gladiator Star Destroyer",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "VEHICLE",
+                "CAPITAL SHIP"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "6",
+            "Power": "5",
+            "HP": "6",
+            "FrontText": "When Played: Give a unit Sentinel for this phase. (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.14",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/086.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "084",
+            "Name": "Grand Moff Tarkin",
+            "Subtitle": "Death Star Overseer",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "2",
+            "HP": "3",
+            "FrontText": "When Played: Search the top 5 cards of your deck for up to 2 IMPERIAL units, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Steve Morris",
+            "VariantType": "Normal",
+            "MarketPrice": "0.42",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/084.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "245",
+            "Name": "Greef Karga",
+            "Subtitle": "Affable Commissioner",
+            "Type": "Unit",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "FRINGE",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "When Played: Search the top 5 cards of your deck for an upgrade, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Marc Escachx",
+            "VariantType": "Normal",
+            "MarketPrice": "0.43",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/245.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "061",
+            "Name": "Guardian of the Whills",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "FORCE",
+                "FRINGE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "The first upgrade you play on this unit each round costs 1 less.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Alexandria Huntington",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/061.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "047",
+            "Name": "Kanan Jarrus",
+            "Subtitle": "Revealed Jedi",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "JEDI",
+                "REBEL",
+                "SPECTRE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "4",
+            "HP": "5",
+            "FrontText": "On Attack: You may discard 1 card from the defending player's deck for each friendly SPECTRE unit. Heal 1 damage from your base for each different aspect among the discarded cards.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": true,
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.57",
+            "FoilPrice": "0.67",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/047.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "258",
+            "Name": "Mandalorian Warrior",
+            "Type": "Unit",
+            "Traits": [
+                "MANDALORIAN"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "When Played: You may give an Experience token to another Mandalorian unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Ash Pierce",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.13",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/258.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "117",
+            "Name": "Mercenary Company",
+            "Type": "Unit",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "5",
+            "HP": "5",
+            "FrontText": "AMBUSH (After you play this unit, it may ready and attack an enemy unit.)\nOVERWHELM (When attacking an enemy unit, deal excess damage to the opponent's base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Ambush",
+                "Overwhelm"
+            ],
+            "Artist": "Elena Skitalets",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.13",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/117.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "121",
+            "Name": "Mercenary Company",
+            "Type": "Unit",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "5",
+            "HP": "5",
+            "FrontText": "Ambush (When you play this unit, it may ready and attack an enemy unit.)\nOverwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Ambush",
+                "Overwhelm"
+            ],
+            "Artist": "Elena Skitalets",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.08",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/121.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "256",
+            "Name": "Mercenary Gunship",
+            "Type": "Unit",
+            "Traits": [
+                "UNDERWORLD",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "3",
+            "HP": "2",
+            "FrontText": "Action [C=4]: Take control of this unit. Any player may use this ability.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Christian Papazoglakis",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/256.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "055",
+            "Name": "Moisture Farmer",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "FRINGE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "1",
+            "Power": "0",
+            "HP": "4",
+            "FrontText": "Restore 2 (When this unit attacks, heal 2 damage from your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Roxana Karpatvogyi",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.10",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/055.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "082",
+            "Name": "Outland TIE Vanguard",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "1",
+            "FrontText": "When Played: You may give an Experience token to another unit that costs 3 or less.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Francois Cannels",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.15",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/082.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "159",
+            "Name": "Partisan Insurgent",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "REBEL",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "4",
+            "FrontText": "While you control another Aggression unit, this unit gains RAID 2. (It gets +2/+0 while attacking.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Raid"
+            ],
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/159.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "084",
+            "Name": "Phase-III Dark Trooper",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "DROID",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "3",
+            "FrontText": "Sentinel (Units in this arena can't attack your non-Sentinel units or your base.) \nWhen combat damage is dealt to this unit: Give an Experience token to this unit (if it survives the damage).",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Marc Escachx",
+            "VariantType": "Normal",
+            "MarketPrice": "3.49",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/084.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "209",
+            "Name": "Pirated Starfighter",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "4",
+            "FrontText": "RAID 1 (This unit gets +1/+0 while attacking.) \nWhen Played: Return a friendly non-leader unit to its owner's hand.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Keywords": [
+                "Raid"
+            ],
+            "Artist": "Fernando Correa",
+            "VariantType": "Normal",
+            "MarketPrice": "0.15",
+            "FoilPrice": "0.24",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/209.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "044",
+            "Name": "Restored ARC-170",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "3",
+            "FrontText": "Restore 1 (When this unit attacks, heal 1 damage from your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "0.17",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/044.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "215",
+            "Name": "Smuggler's Starfighter",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "VEHICLE",
+                "TRANSPORT"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "3",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "When Played: If you control another Underworld unit, give an enemy unit -3/-0 for this phase. \nSmuggle [C=4 Cunning] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Smuggle"
+            ],
+            "Artist": "Fernando Correa",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.12",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/215.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "163",
+            "Name": "Star Wing Scout",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "3",
+            "Power": "4",
+            "HP": "1",
+            "FrontText": "When Defeated: If you have the initiative, draw 2 cards.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Fernando Correa",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.22",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/163.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "098",
+            "Name": "Sundari Peacekeeper",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "MANDALORIAN",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "1",
+            "HP": "5",
+            "FrontText": "Raid 2 (This unit gets +2/+0 while attacking.) \nRestore 2 (When this unit attacks, heal 2 damage from your base.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Keywords": [
+                "Raid",
+                "Restore"
+            ],
+            "Artist": "Erik Ly",
+            "VariantType": "Normal",
+            "MarketPrice": "0.14",
+            "FoilPrice": "0.34",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/098.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "033",
+            "Name": "Synara San",
+            "Subtitle": "Loyal to Kragan",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "3",
+            "HP": "6",
+            "FrontText": "Grit \nWhile this unit is exhausted, she gains, \"Bounty - Deal 5 damage to a base.\" (When this unit is defeated or captured, your opponent collects its bounty.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": true,
+            "Keywords": [
+                "Bounty",
+                "Grit"
+            ],
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/033.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "250",
+            "Name": "Tarfful",
+            "Subtitle": "Kashyyyk Chieftan",
+            "Type": "Unit",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "WOOKIEE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "3",
+            "HP": "9",
+            "FrontText": "Restore 2 \nWhen a friendly Wookiee unit is dealt combat damage and isn't defeated: That unit deals that much damage to an enemy ground unit.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Leonardo Giammichele",
+            "VariantType": "Normal",
+            "MarketPrice": "0.42",
+            "FoilPrice": "0.88",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/250.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "047",
+            "Name": "The Armorer",
+            "Subtitle": "Survival Is Strength",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "MANDALORIAN"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "3",
+            "HP": "5",
+            "FrontText": "When Played: Give a Shield token to each of up to 3 Mandalorian units.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": true,
+            "Artist": "Hoan Nguyen",
+            "VariantType": "Normal",
+            "MarketPrice": "0.12",
+            "FoilPrice": "0.21",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/047.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "102",
+            "Name": "The Marauder",
+            "Subtitle": "Shuttling the Bad Batch",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "FRINGE",
+                "VEHICLE",
+                "TRANSPORT"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "5",
+            "Power": "4",
+            "HP": "5",
+            "FrontText": "Ambush \nWhen Played: Choose a card in your discard pile. Put it into play as a resource if it shares a name with a unit you control.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Ambush"
+            ],
+            "Artist": "Christian Papazoglakis",
+            "VariantType": "Normal",
+            "MarketPrice": "0.70",
+            "FoilPrice": "1.36",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/102.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "259",
+            "Name": "Twin Pod Cloud Car",
+            "Type": "Unit",
+            "Traits": [
+                "FRINGE",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "3",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "Restore 2 (When this unit attacks, heal 2 damage from your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Christian Papazoglakis",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.12",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/259.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "191",
+            "Name": "Vanguard Ace",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "NEW REPUBLIC",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "1",
+            "FrontText": "When Played: For each other card you played this phase, give an Experience token to this unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Andr\u00e9 Mealha",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.23",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/191.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "160",
+            "Name": "Vanguard Droid Bomber",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "DROID",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "When Played: If you control another Separatist unit, deal 2 damage to an enemy base.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Christian Papzoglakis",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/160.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "108",
+            "Name": "Vanguard Infantry",
+            "Type": "Unit",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "1",
+            "Power": "1",
+            "HP": "2",
+            "FrontText": "When Defeated: You may give an Experience token to a unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.15",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/108.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "048",
+            "Name": "Vigilant Honor Guards",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "4",
+            "HP": "6",
+            "FrontText": "While this unit is undamaged, it gains Sentinel (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "0.14",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/048.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "086",
+            "Name": "Warbird Stowaway",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "2",
+            "HP": "3",
+            "FrontText": "While you have the initiative, this unit gets +2/+0. \nSmuggle [C=4 Command Villainy] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Smuggle"
+            ],
+            "Artist": "Omercan Cirit",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "0.07",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/086.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "032",
+            "Name": "Wartime Trade Official",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "3",
+            "FrontText": "When Defeated: Create a Battle Droid token.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Leonardo Giammichele",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/032.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "110",
+            "Name": "Warzone Lieutenant",
+            "Type": "Unit",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "1",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.08",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/110.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "249",
+            "Name": "Wookiee Warrior",
+            "Type": "Unit",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "WOOKIEE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "2",
+            "HP": "5",
+            "FrontText": "Grit (This unit gets +1/+0 for each damage on it.) \nWhen Played: If you control another Wookiee unit, draw a card.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Grit"
+            ],
+            "Artist": "Aitor Prieto",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.11",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/249.png"
+        }
+    ]
+}

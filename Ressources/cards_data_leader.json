@@ -1,0 +1,1377 @@
+{
+    "total_cards": 41,
+    "data": [
+        {
+            "Set": "SHD",
+            "Number": "012",
+            "Name": "Bo-Katan Kryze",
+            "Subtitle": "Princess in Exile",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "MANDALORIAN"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "Action [{{Exhaust}}]: If you attacked with a Mandalorian unit this phase, deal 1 damage to a unit.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/012-b.png",
+            "BackText": "On Attack: You may deal 1 damage to a unit. If you attacked with another Mandalorian unit this phase, you may deal 1 damage to a unit. (The same unit or a different unit.)",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "David Buis\u00e1n",
+            "VariantType": "Normal",
+            "MarketPrice": "0.14",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/012.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "015",
+            "Name": "Boba Fett",
+            "Subtitle": "Collecting the Bounty",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "BOUNTY HUNTER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "When an enemy unit leaves play: You may exhaust this leader. If you do, ready a resource.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/015-b.png",
+            "BackText": "When this unit completes an attack: If an enemy unit left play this phase, ready up to 2 resources.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/015.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "008",
+            "Name": "Boba Fett",
+            "Subtitle": "Daimyo",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "When you play a unit that has 1 or more KEYWORDS: You may exhaust this leader. If you do, give a friendly unit +1/+0 for this phase.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/008-b.png",
+            "BackText": "Each other friendly unit that has 1 or more KEYWORDS gets +1/+0.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Guillaume Ospital",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/008.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "010",
+            "Name": "Bossk",
+            "Subtitle": "Hunting His Prey",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "BOUNTY HUNTER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "4",
+            "HP": "6",
+            "FrontText": "Action [{{Exhaust}}]: Deal 1 damage to a unit with a BOUNTY. You may give it +1/+0 for this phase.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/010-b.png",
+            "BackText": "When you collect a BOUNTY: You may collect that BOUNTY again. Use this ability only once each round.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/010.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "014",
+            "Name": "Cad Bane",
+            "Subtitle": "He Who Needs No Introduction",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "BOUNTY HUNTER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "2",
+            "HP": "8",
+            "FrontText": "When you play an Underworld card: You may exhaust this leader. If you do, an opponent chooses a unit they control. Deal 1 damage to it.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/014-b.png",
+            "BackText": "RAID 2 (This unit gets +2/+0 while attacking.)\nWhen you play an Underworld card: You may choose an opponent. They choose a unit they control. Deal 2 damage to it. Use this ability only once each round.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Marc Escachx",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/014.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "013",
+            "Name": "Cassian Andor",
+            "Subtitle": "Dedicated to the Rebellion",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "6",
+            "FrontText": "Action [1, {Exhaust}]: If you've dealt 3 or more damage to an enemy base this phase, draw a card.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/013-b.png",
+            "BackText": "SABOTEUR (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)\nWhen you deal damage to an enemy base: You may draw a card. Use this ability only once each round.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Saboteur"
+            ],
+            "Artist": "Mickael Balloul",
+            "VariantType": "Normal",
+            "MarketPrice": "0.12",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/013.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "003",
+            "Name": "Chewbacca",
+            "Subtitle": "Walking Carpet",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "WOOKIEE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "2",
+            "HP": "9",
+            "FrontText": "Action [{Exhaust}]: Play a unit that costs 3 or less from your hand (paying its cost). It gains Sentinel for this phase.",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/003-b.png",
+            "BackText": "SENTINEL (Units in this arena can't attack your non-Sentinel units or your base.)\nGRIT (This unit gets +1/+0 for each damage on it.)",
+            "Rarity": "Common",
+            "Unique": true,
+            "Keywords": [
+                "Grit",
+                "Sentinel"
+            ],
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/003.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "004",
+            "Name": "Chirrut \u00cemwe",
+            "Subtitle": "One With the Force",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "REBEL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "3",
+            "HP": "5",
+            "FrontText": "Action [{{Exhaust}}]: Give a unit +0/+2 for this phase.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/004-b.png",
+            "BackText": "During the action phase, this unit isn't defeated by having no remaining HP. (During the regroup phase, if he has no remaining HP, defeat him.)",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.16",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/004.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "005",
+            "Name": "Count Dooku",
+            "Subtitle": "Face of the Confederacy",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "SEPARATIST",
+                "SITH"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "5",
+            "HP": "9",
+            "FrontText": "Action [Exhaust]: Play a Separatist card from your hand. It gains Exploit 1. (You may defeat 1 unit you control. If you do, that card costs 2 less.)",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/005-b.png",
+            "BackText": "Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)\nOn Attack: The next Separatist card you play this phase gains Exploit 3.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/005.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "010",
+            "Name": "Darth Vader",
+            "Subtitle": "Dark Lord of the Sith",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "IMPERIAL",
+                "SITH"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "5",
+            "HP": "8",
+            "FrontText": "Action [{C=1}, {Exhaust}]: If you played a Villainy card this phase, deal 1 damage to a unit and 1 damage to a base.",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/010-b.png",
+            "BackText": "On Attack: You may deal 2 damage to a unit.",
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Borja Pindado",
+            "VariantType": "Normal",
+            "MarketPrice": "1.12",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/010.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "001",
+            "Name": "Director Krennic",
+            "Subtitle": "Aspiring to Authority",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "2",
+            "HP": "7",
+            "FrontText": "Each friendly damaged unit gets +1/+0.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/001-b.png",
+            "BackText": "Restore 2 (When this unit attacks, heal 2 damage from your base.) Each friendly damaged unit gets +1/+0.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/001.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "015",
+            "Name": "Doctor Aphra",
+            "Subtitle": "Rapacious Archaeologist",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "FRINGE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "2",
+            "HP": "5",
+            "FrontText": "When the regroup phase starts: Discard a card from your deck.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/015-b.png",
+            "BackText": "While there are 5 or more different costs among cards in your discard pile, this unit gets +3/+0.\nWhen Deployed: Choose 3 cards in your discard pile with different names. If you do, return 1 of them at random to your hand.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/015.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "006",
+            "Name": "Emperor Palpatine",
+            "Subtitle": "Galactic Ruler",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "IMPERIAL",
+                "SITH",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "8",
+            "Power": "4",
+            "HP": "10",
+            "FrontText": "Action [{C=1}, {Exhaust}, defeat a friendly unit]: Deal 1 damage to a unit and draw a card.",
+            "EpicAction": "Epic Action: If you control 8 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/006-b.png",
+            "BackText": "When Deployed: Take control of a damaged non-leader unit.\nOn Attack: You may defeat another friendly unit. If you do, deal 1 damage to a unit and draw a card.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Borja Pindado",
+            "VariantType": "Normal",
+            "MarketPrice": "0.24",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/006.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "016",
+            "Name": "Fennec Shand",
+            "Subtitle": "Honoring the Deal",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "4",
+            "HP": "4",
+            "FrontText": "Action [{C=1}, {{Exhaust}}]: Play a unit that costs 4 or less from your hand (paying its cost). Give it AMBUSH for this phase. (After you play the unit, it may ready and attack an enemy unit.)",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/016-b.png",
+            "BackText": "SABOTEUR (When this unit attacks, ignore Sentinel and defeat the defender's Shields.)\nAction: Play a unit that costs 4 or less from your hand (paying its cost.) Give it AMBUSH for this phase.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/016.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "003",
+            "Name": "Finn",
+            "Subtitle": "This is a Rescue",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "FRINGE",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "4",
+            "HP": "6",
+            "FrontText": "Action [{{Exhaust}}]: Defeat a friendly upgrade on a unit. If you do, give a Shield token to that unit.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/003-b.png",
+            "BackText": "On Attack: You may defeat a friendly upgrade on a unit. If you do, give a Shield token to that unit.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Renaud Scheidt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/003.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "001",
+            "Name": "Gar Saxon",
+            "Subtitle": "Viceroy of Mandalore",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "MANDALORIAN",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "Each friendly upgraded unit gets +1/+0.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/001-b.png",
+            "BackText": "Each friendly upgraded unit gets +1/+0 and gains \"When Defeated: You may return an upgrade that was attached to this unit to its owner's hand.\"",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/001.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "016",
+            "Name": "Grand Admiral Thrawn",
+            "Subtitle": "Patient and Insightful",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "3",
+            "HP": "9",
+            "FrontText": "When the action phase starts: Look at the top card of each player's deck.\nAction [{C=1}, {Exhaust}]: Reveal the top card of any player's deck. Exhaust a unit that costs the same as or less than the revealed card.",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/016-b.png",
+            "BackText": "When the action phase starts: Look at the top card of each player's deck.\nOn Attack: You may reveal the top card of any player's deck. Exhaust a unit that costs the same as or less than the revealed card.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Ivan Dedov",
+            "VariantType": "Normal",
+            "MarketPrice": "0.23",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/016.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "011",
+            "Name": "Grand Inquisitor",
+            "Subtitle": "Hunting The Jedi",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "IMPERIAL",
+                "INQUISITOR"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "3",
+            "HP": "6",
+            "FrontText": "Action [{Exhaust}]: Deal 2 damage to a friendly unit with 3 or less power and ready it.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/011-b.png",
+            "BackText": "On Attack: You may deal 1 damage to another friendly unit with 3 or less power and ready it.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Borja Pindado",
+            "VariantType": "Normal",
+            "MarketPrice": "0.19",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/011.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "007",
+            "Name": "Grand Moff Tarkin",
+            "Subtitle": "Oversector Governor",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "2",
+            "HP": "7",
+            "FrontText": "Action [{C=1}, {{Exhaust}}]: Give an Experience token to an IMPERIAL unit.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/007-b.png",
+            "BackText": "On Attack: You may give an Experience token to another IMPERIAL unit.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Tomas Oleksak",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/007.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "017",
+            "Name": "Han Solo",
+            "Subtitle": "Audacious Smuggler",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "6",
+            "FrontText": "Action [{Exhaust}]: Put a card from your hand into play as a resource and ready it. At the start of the next action phase, defeat a resource you control.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/017-b.png",
+            "BackText": "On Attack: Put the top card of your deck into play as a resource and ready it. At the start of the next action phase, defeat a resource you control.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "David Nash",
+            "VariantType": "Normal",
+            "MarketPrice": "0.19",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/017.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "013",
+            "Name": "Han Solo",
+            "Subtitle": "Worth the Risk",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "3",
+            "HP": "6",
+            "FrontText": "Action [{{Exhaust}}]: Play a unit from your hand. It costs 1 less. Deal 2 damage to it.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/013-b.png",
+            "BackText": "Action: Play a unit from your hand. It costs 1 less. Deal 2 damage to it.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/013.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "008",
+            "Name": "Hera Syndulla",
+            "Subtitle": "Spectre Two",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL",
+                "TWI'LEK",
+                "SPECTRE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "6",
+            "FrontText": "Ignore the aspect penalty on SPECTRE cards you play.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/008-b.png",
+            "BackText": "Ignore the aspect penalty on SPECTRE cards you play.\nOn Attack: You may give an Experience token to another unique unit.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.16",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/008.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "005",
+            "Name": "Hondo Ohnaka",
+            "Subtitle": "That's Good Business",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "3",
+            "HP": "7",
+            "FrontText": "When you play a card using SMUGGLE: You may exhaust this leader. If you do, give an Experience token to a unit.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/005-b.png",
+            "BackText": "RAID 1 (This unit gets +1/+0 while attacking.)\nWhen you play a card using SMUGGLE: You may give an Experience token to a unit.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Aitor Prieto",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/005.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "009",
+            "Name": "Hunter",
+            "Subtitle": "Outcast Sergeant",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "FRINGE",
+                "CLONE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "5",
+            "HP": "8",
+            "FrontText": "Action [{{C=1}}, {{Exhaust}}]: Reveal a resource you control. If it shares a name with a friendly unique unit, return the resource to its owner's hand and put the top card of your deck into play as a resource.",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/009-b.png",
+            "BackText": "OVERWHELM\nOn Attack: You may reveal a resource you control. If it shares a name with a friendly unique unit, return the resource to its owner's hand and put the top card of your deck into play as a resource.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Mickael Balloul",
+            "VariantType": "Normal",
+            "MarketPrice": "0.14",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/009.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "012",
+            "Name": "IG-88",
+            "Subtitle": "Ruthless Bounty Hunter",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "DROID",
+                "BOUNTY HUNTER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "5",
+            "HP": "4",
+            "FrontText": "Action [{Exhaust}]: Attack with a unit. If you control more units than the defending player, the attacker gets +1/+0 for this attack.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/012-b.png",
+            "BackText": "Each other friendly unit gains Raid 1. (They get +1/+0 while attacking.)",
+            "Rarity": "Common",
+            "Unique": true,
+            "Keywords": [
+                "Raid"
+            ],
+            "Artist": "Hoan Nguyen",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/012.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "002",
+            "Name": "Iden Versio",
+            "Subtitle": "Infero Squad Commander",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "4",
+            "FrontText": "Action [{Exhaust}]: If an enemy unit was defeated this phase, heal 1 damage from your base.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/002-b.png",
+            "BackText": "SHIELDED (When you deploy this leader, give her a Shield token.)\nWhen an enemy unit is defeated: Heal 1 damage from your base.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Shielded"
+            ],
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.22",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/002.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "006",
+            "Name": "Jabba the Hutt",
+            "Subtitle": "His High Exaltdeness",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "HUTT"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "2",
+            "HP": "12",
+            "FrontText": "Action [{{Exhaust}}]: Choose a unit. For this phase it gains: \"BOUNTY - The next unit you play this phase costs 1 less.\"",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/006-b.png",
+            "BackText": "When Deployed: Another friendly unit captures an enemy non-leader unit.\nAction [{{Exhaust}}]: Choose a unit. For this phase, it gains \"BOUNTY - The next unit you play this phase costs 2 less.\"",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Aitor Prieto",
+            "VariantType": "Normal",
+            "MarketPrice": "0.15",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/006.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "016",
+            "Name": "Jango Fett",
+            "Subtitle": "Concealing the Conspiracy",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "BOUNTY HUNTER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "3",
+            "HP": "7",
+            "FrontText": "When a friendly unit deals damage to an enemy unit: You may exhaust this leader. If you do, exhaust that enemy unit.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/016-b.png",
+            "BackText": "When a friendly unit deals damage to an enemy unit: You may exhaust that unit.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Jake Parker",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/016.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "018",
+            "Name": "Jyn Erso",
+            "Subtitle": "Resisting Oppression",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "Action [{Exhaust}]: Attack with a unit. The defender gets -1/-0 for this attack.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/018-b.png",
+            "BackText": "While a friendly unit is attacking, the defender gets -1/-0.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/018.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "011",
+            "Name": "Kylo Ren",
+            "Subtitle": "Rash and Deadly",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "FIRST ORDER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "5",
+            "HP": "4",
+            "FrontText": "Action [{{Exhaust}}, discard a card from your hand]: Give a unit +2/+0 for this phase.",
+            "EpicAction": "Epic Action: If you control 4 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/011-b.png",
+            "BackText": "This unit gets -1/-0 for each card in your hand.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Guillaume Ospital",
+            "VariantType": "Normal",
+            "MarketPrice": "0.12",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/011.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "017",
+            "Name": "Lando Calrissian",
+            "Subtitle": "With Impeccable Taste",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "2",
+            "HP": "5",
+            "FrontText": "Action [{{Exhaust}}]: Play a card using SMUGGLE. It costs 2 less. Defeat a resource you own and control.",
+            "EpicAction": "Epic Action: If you control 4 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/017-b.png",
+            "BackText": "Action: Play a card using SMUGGLE. It costs 2 less. Defeat a resource you own and control. Use this ability only once each round.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/017.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "009",
+            "Name": "Leia Organa",
+            "Subtitle": "Alliance General",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "3",
+            "HP": "6",
+            "FrontText": "Action [{Exhaust}]: Attack with a REBEL unit. Then, you may attack with another REBEL unit.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/009-b.png",
+            "BackText": "Raid 1 (This unit gets +1/+0 while attacking.)\nWhen this unit completes an attack: You may attack with another REBEL unit.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Keywords": [
+                "Raid"
+            ],
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/009.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "005",
+            "Name": "Luke Skywalker",
+            "Subtitle": "Faithful Friend",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "REBEL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "Action [{C=1}, {Exhaust}]: Give a Shield token to a Heroism unit you played this phase.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/005-b.png",
+            "BackText": "On Attack: You may give another unit a Shield token.",
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Borja Pindado",
+            "VariantType": "Normal",
+            "MarketPrice": "0.88",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/005.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "013",
+            "Name": "Mace Windu",
+            "Subtitle": "Vaapad Form Master",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "JEDI",
+                "REPUBLIC"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "5",
+            "HP": "8",
+            "FrontText": "Action [C=1, Exhaust]: Deal 1 damage to a damaged enemy unit. Then, if it has 5 or more damage on it, deal 1 damage to it.",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/013-b.png",
+            "BackText": "When Deployed: Deal 2 damage to each damaged enemy unit.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/013.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "007",
+            "Name": "Moff Gideon",
+            "Subtitle": "Formidable Commander",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "3",
+            "HP": "6",
+            "FrontText": "Action [{{Exhaust}}]: Attack with a unit that costs 3 or less. If it's attacking a unit, it gets +1/+0 for this attack.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/007-b.png",
+            "BackText": "OVERWHELM (When attacking an enemy unit, deal excess damage to the opponent's base.)\nEach friendly unit that costs 3 or less gets +1/+0 and gains OVERWHELM while attacking an enemy unit.",
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.60",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/007.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "002",
+            "Name": "Nute Gunray",
+            "Subtitle": "Vindictive Viceroy",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "0",
+            "Power": "2",
+            "HP": "8",
+            "FrontText": "Action [Exhaust]: If 2 or more friendly units were defeated this phase, create a Battle Droid token.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/002-b.png",
+            "BackText": "On Attack: Create a Battle Droid token.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Aitor Prieto Reyes",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/002.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "002",
+            "Name": "Qi'ra",
+            "Subtitle": "I Alone Survived",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "0",
+            "HP": "8",
+            "FrontText": "Action [{{C=1}}, {{Exhaust}}]: Deal 2 damage to a friendly unit. Then, give a Shield token to it.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/002-b.png",
+            "BackText": "GRIT (This unit gets +1/+0 for each damage on her.)\nWhen Deployed: Heal all damage from each unit. Then, deal damage to each unit equal to half its remaining HP, rounded down.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Gretel Nancy Lusky",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/002.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "018",
+            "Name": "Quinlan Vos",
+            "Subtitle": "Sticking the Landing",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "JEDI",
+                "REPUBLIC"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "0",
+            "Power": "3",
+            "HP": "7",
+            "FrontText": "When you play a unit: You may exhaust this leader. If you do, deal 1 damage to an enemy unit that costs the same as the played unit.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/018-b.png",
+            "BackText": "When you play a unit: You may deal 1 damage to an enemy unit that costs the same as or less than the played unit.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Cristina Lavi\u00f1a",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/018.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "004",
+            "Name": "Rey",
+            "Subtitle": "More Than a Scavenger",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "FRINGE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "2",
+            "HP": "6",
+            "FrontText": "Action [{{C=1}}, {{Exhaust}}]: Give an Experience token to a unit with 2 or less power.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/004-b.png",
+            "BackText": "RESTORE 3 (When this unit attacks, heal 3 damage from your base.)\nOn Attack: You may give an Experience token to a unit with 2 or less power.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "David Buis\u00e1n",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/004.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "014",
+            "Name": "Sabine Wren",
+            "Subtitle": "Galvanized Revolutionary",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "MANDALORIAN",
+                "REBEL",
+                "SPECTRE"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "2",
+            "HP": "5",
+            "FrontText": "Action [{Exhaust}]: Deal 1 damage to each base.",
+            "EpicAction": "Epic Action: If you control 4 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SOR/014-b.png",
+            "BackText": "On Attack: Deal 1 damage to each enemy base.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/014.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "018",
+            "Name": "The Mandalorian",
+            "Subtitle": "Sworn to the Creed",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "MANDALORIAN",
+                "BOUNTY HUNTER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "When you play an upgrade: You may exhaust this leader. If you do, exhaust an enemy unit with 4 or less remaining HP.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader. (Flip him, ready him, and move him to the ground arena.)",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/SHD/018-b.png",
+            "BackText": "When you play an upgrade: You may exhaust an enemy unit with 6 or less remaining HP.",
+            "Rarity": "Special",
+            "Unique": true,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.58",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/018.png"
+        }
+    ]
+}

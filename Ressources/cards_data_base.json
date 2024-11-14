@@ -1,0 +1,432 @@
+{
+    "total_cards": 22,
+    "data": [
+        {
+            "Set": "SOR",
+            "Number": "029",
+            "Name": "Administrator's Tower",
+            "Subtitle": "Cloud City",
+            "Type": "Base",
+            "Aspects": [
+                "Cunning"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Tyler Edlin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/029.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "020",
+            "Name": "Capital City",
+            "Subtitle": "Lothal",
+            "Type": "Base",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Sebastian Guidobono",
+            "VariantType": "Normal",
+            "MarketPrice": "0.14",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/020.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "026",
+            "Name": "Catacombs of Cadera",
+            "Subtitle": "Jedha",
+            "Type": "Base",
+            "Aspects": [
+                "Aggression"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Tyler Edlin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/026.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "030",
+            "Name": "Chopper Base",
+            "Subtitle": "Atollon",
+            "Type": "Base",
+            "Aspects": [
+                "Cunning"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Tyler Edlin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/030.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "023",
+            "Name": "Command Center",
+            "Subtitle": "Death Star",
+            "Type": "Base",
+            "Aspects": [
+                "Command"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Stephen Zavala",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/023.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "025",
+            "Name": "Coronet City",
+            "Subtitle": "Corellia",
+            "Type": "Base",
+            "Aspects": [
+                "Cunning"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Adrien Girod",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/025.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "021",
+            "Name": "Dagobah Swamp",
+            "Subtitle": "Dagobah",
+            "Type": "Base",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Tyler Edlin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/021.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "023",
+            "Name": "Death Watch Hideout",
+            "Subtitle": "Concordia",
+            "Type": "Base",
+            "Aspects": [
+                "Aggression"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Adrien Girod",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/023.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "024",
+            "Name": "Echo Base",
+            "Subtitle": "Hoth",
+            "Type": "Base",
+            "Aspects": [
+                "Command"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Stephen Zavala",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/024.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "022",
+            "Name": "Energy Conversion Lab",
+            "Subtitle": "Eadu",
+            "Type": "Base",
+            "Aspects": [
+                "Command"
+            ],
+            "HP": "25",
+            "FrontText": "Epic Action: Play a unit that costs 6 or less from your hand. Give it AMBUSH for this phase.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Keywords": [
+                "Ambush"
+            ],
+            "Artist": "Adrien Girod",
+            "VariantType": "Normal",
+            "MarketPrice": "1.82",
+            "FoilPrice": "2.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/022.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "026",
+            "Name": "Jabba's Palace",
+            "Subtitle": "Tatooine",
+            "Type": "Base",
+            "Aspects": [
+                "Cunning"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Tyler Edlin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/026.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "028",
+            "Name": "Jedha City",
+            "Subtitle": "Jedha",
+            "Type": "Base",
+            "Aspects": [
+                "Cunning"
+            ],
+            "HP": "25",
+            "FrontText": "Epic Action: Give a non-leader unit -4/-0 for this phase.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Roc\u00edo Esp\u00edn",
+            "VariantType": "Normal",
+            "MarketPrice": "0.20",
+            "FoilPrice": "0.39",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/028.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "027",
+            "Name": "Kestro City",
+            "Subtitle": "Vardos",
+            "Type": "Base",
+            "Aspects": [
+                "Aggression"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Stephen Zavala",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/027.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "021",
+            "Name": "Maz Kanata's Castle",
+            "Subtitle": "Takodana",
+            "Type": "Base",
+            "Aspects": [
+                "Command"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Rocio Espin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/021.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "022",
+            "Name": "Nevarro City",
+            "Subtitle": "Nevarro",
+            "Type": "Base",
+            "Aspects": [
+                "Command"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Roxana Karpatvolgyi",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/022.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "019",
+            "Name": "Pau City",
+            "Subtitle": "Utapau",
+            "Type": "Base",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "HP": "26",
+            "FrontText": "Each leader unit you control gets +0/+1.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Roc\u00edo Espin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.15",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/019.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "019",
+            "Name": "Remnant Science Facility",
+            "Subtitle": "Nevarro",
+            "Type": "Base",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/019.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "020",
+            "Name": "Remote Village",
+            "Subtitle": "Sorgan",
+            "Type": "Base",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Natcha Ngamtweerat",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/020.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "019",
+            "Name": "Security Complex",
+            "Subtitle": "Scarif",
+            "Type": "Base",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "HP": "25",
+            "FrontText": "Epic Action: Give a Shield token to a non-leader unit.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Tyler Edlin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.33",
+            "FoilPrice": "0.51",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/019.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "025",
+            "Name": "Shadow Collective Camp",
+            "Subtitle": "Zanbar",
+            "Type": "Base",
+            "Aspects": [
+                "Aggression"
+            ],
+            "HP": "25",
+            "FrontText": "When you deploy a leader: Draw a card.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/025.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "024",
+            "Name": "Spice Mines",
+            "Subtitle": "Kessel",
+            "Type": "Base",
+            "Aspects": [
+                "Aggression"
+            ],
+            "HP": "30",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/024.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "025",
+            "Name": "Tarkintown",
+            "Subtitle": "Lothal",
+            "Type": "Base",
+            "Aspects": [
+                "Aggression"
+            ],
+            "HP": "25",
+            "FrontText": "Epic Action: Deal 3 damage to a damaged non-leader unit.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Adrien Girod",
+            "VariantType": "Normal",
+            "MarketPrice": "0.48",
+            "FoilPrice": "0.94",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/025.png"
+        }
+    ]
+}

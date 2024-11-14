@@ -1,0 +1,2543 @@
+{
+    "total_cards": 113,
+    "data": [
+        {
+            "Set": "TWI",
+            "Number": "040",
+            "Name": "A Fine Addition",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "0",
+            "FrontText": "If an enemy unit was defeated this phase, play an upgrade from your hand or from any player's discard pile, ignoring its aspect penalty.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/040.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "207",
+            "Name": "A New Adventure",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Cunning"
+            ],
+            "Traits": [
+                "GAMBIT"
+            ],
+            "Cost": "2",
+            "FrontText": "Return a non-leader unit that costs 6 or less to its owner's hand. Then, its owner may play it for free.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.28",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/207.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "155",
+            "Name": "Aggression",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Aggression"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "4",
+            "FrontText": "Choose two, in any order:\nDraw a card.\nDefeat up to 2 upgrades.\nReady a unit with 3 or less power.\nDeal 4 damage to a unit.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "14.43",
+            "FoilPrice": "18.84",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/155.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "243",
+            "Name": "Altering the Deal",
+            "Type": "Event",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "1",
+            "FrontText": "Discard a captured card guarded by a friendly unit.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.33",
+            "FoilPrice": "0.57",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/243.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "218",
+            "Name": "Asteroid Sanctuary",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "2",
+            "FrontText": "Exhaust an enemy unit.\nGive a Shield token to a friendly unit that costs 3 or less.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Rebecca Farrow",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.20",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/218.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "106",
+            "Name": "Attack Pattern Delta",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Command"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Give a friendly unit +3/+3 for this phase.\nGive another friendly unit +2/+2 for this phase.\nGive a third friendly unit +1/+1 for this phase.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "0.22",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/106.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "199",
+            "Name": "Bamboozle",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "2",
+            "FrontText": "You may discard a Cunning card from your hand instead of paying this event's cost. Exhaust a unit and return each upgrade on it to its owner's hand.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.14",
+            "FoilPrice": "0.17",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/199.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "173",
+            "Name": "Blood Sport",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "FRINGE"
+            ],
+            "Cost": "3",
+            "FrontText": "Deal 2 damage to each ground unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Milos Slavkovic",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/173.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "173",
+            "Name": "Bombing Run",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "5",
+            "FrontText": "Choose an arena (ground or space). Deal 3 damage to each unit in that arena.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Kyle Petchock",
+            "VariantType": "Normal",
+            "MarketPrice": "1.42",
+            "FoilPrice": "1.68",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/173.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "228",
+            "Name": "Bounty Posting",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "PLAN"
+            ],
+            "Cost": "1",
+            "FrontText": "Search your deck for a Bounty upgrade, reveal it, and draw it. (Shuffle your deck.)\nYou may play that upgrade (paying its cost).",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "James Daly",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.15",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/228.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "182",
+            "Name": "Bravado",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "5",
+            "FrontText": "If you've defeated an enemy unit this phase, this event costs 2 less to play. \nReady a unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/182.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "039",
+            "Name": "Calculated Lethality",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "4",
+            "FrontText": "Defeat a non-leader unit that costs 3 or less. For each upgrade that was on that unit, give an Experience token to a friendly unit.",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.33",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/039.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "224",
+            "Name": "Change of Heart",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "GAMBIT"
+            ],
+            "Cost": "6",
+            "FrontText": "Take control of a non-leader unit. At the start of the regroup phase, its owner takes control of it.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Kevin Libranda",
+            "VariantType": "Normal",
+            "MarketPrice": "4.57",
+            "FoilPrice": "8.17",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/224.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "132",
+            "Name": "Choose Sides",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "PLAN"
+            ],
+            "Cost": "7",
+            "FrontText": "Choose a friendly non-leader unit and an enemy non-leader unit. Exchange control of those units.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.33",
+            "FoilPrice": "0.67",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/132.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "107",
+            "Name": "Command",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Command"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "4",
+            "FrontText": "Choose two, in any order:\nGive 2 Experience tokens to a unit. \nA friendly unit deals damage equal to its power to a non-unique enemy unit. \nPut this event into play as a resource.\nReturn a unit from your discard pile to your hand.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Maxine Vee",
+            "VariantType": "Normal",
+            "MarketPrice": "14.04",
+            "FoilPrice": "18.75",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/107.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "127",
+            "Name": "Commission",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "1",
+            "FrontText": "Search the top 10 cards of your deck for a Bounty Hunter, Item, or Transport card, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.) \nSmuggle [C=3 {Command}]",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.11",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/127.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "251",
+            "Name": "Confiscate",
+            "Type": "Event",
+            "Traits": [
+                "LAW"
+            ],
+            "Cost": "1",
+            "FrontText": "Defeat an upgrade.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/251.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "262",
+            "Name": "Confiscate",
+            "Type": "Event",
+            "Traits": [
+                "LAW"
+            ],
+            "Cost": "1",
+            "FrontText": "Defeat an upgrade.",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.14",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/262.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "075",
+            "Name": "Covert Strength",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Heal 2 damage from a unit and give an Experience token to it.\nSmuggle [C=3 Vigilance] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/075.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "156",
+            "Name": "Cripple Authority",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "2",
+            "FrontText": "Draw a card. Each opponent who controls more resources than you discards a card from their hand.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Denis Medri",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/156.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "203",
+            "Name": "Cunning",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Cunning"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "4",
+            "FrontText": "Choose two, in any order:\nReturn a non-leader unit with 4 or less power to its owner's hand.\nGive a unit +4/+0 for this phase.\nExhaust up to 2 units.\nAn opponent discards a random card from their hand.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Sandra Chlewi\u0144ska",
+            "VariantType": "Normal",
+            "MarketPrice": "28.06",
+            "FoilPrice": "39.05",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/203.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "178",
+            "Name": "Daring Raid",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Deal 2 damage to a unit or base.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.25",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/178.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "179",
+            "Name": "Desperate Attack",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Attack with a damaged unit. It gets +2/+0 for this attack.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Liana Anatolievich",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.15",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/179.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "180",
+            "Name": "Detention Block Rescue",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "GAMBIT"
+            ],
+            "Cost": "3",
+            "FrontText": "Deal 3 damage to a unit. If that unit is guarding any captured cards, deal 6 damage instead.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Omercan Cirit",
+            "VariantType": "Normal",
+            "MarketPrice": "0.04",
+            "FoilPrice": "0.09",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/180.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "216",
+            "Name": "Disarm",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Give an enemy unit -4/-0 for this phase.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.12",
+            "FoilPrice": "0.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/216.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "223",
+            "Name": "Don't Get Cocky",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "GAMBIT"
+            ],
+            "Cost": "4",
+            "FrontText": "Choose a unit. One at a time, reveal cards from your deck until you choose to stop or have revealed 7 cards. If the combined cost of the revealed cards is 7 or less, deal that much damage to the chosen unit. Put the revealed cards on the bottom of your deck in a random order.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Borja Pindado",
+            "VariantType": "Normal",
+            "MarketPrice": "0.26",
+            "FoilPrice": "0.51",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/223.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "109",
+            "Name": "Endless Legions",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Command"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "14",
+            "FrontText": "Reveal any number of resources you control. Play each unit revealed this way for free (one at a time).",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "1.72",
+            "FoilPrice": "4.33",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/109.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "108",
+            "Name": "Enforced Loyalty",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Command"
+            ],
+            "Traits": [
+                "LAW"
+            ],
+            "Cost": "2",
+            "FrontText": "Defeat a friendly unit. If you do, draw 2 cards.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.29",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/108.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "055",
+            "Name": "Equalize",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Give a unit -2/-2 for this phase. Then, if you control fewer units than that unit's controller, give another unit -2/-2 for this phase.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Kevin Libranda",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/055.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "233",
+            "Name": "Evacuate",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "LAW"
+            ],
+            "Cost": "6",
+            "FrontText": "Return each non-leader unit to its owner's hand.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Stephen Zavala",
+            "VariantType": "Normal",
+            "MarketPrice": "2.57",
+            "FoilPrice": "4.53",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/233.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "077",
+            "Name": "Evidence of the Crime",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "3",
+            "FrontText": "Take control of an upgrade that costs 3 or less and attach it to an eligible unit of your choice.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.26",
+            "FoilPrice": "0.41",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/077.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "078",
+            "Name": "Fell the Dragon",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "4",
+            "FrontText": "Defeat a non-leader unit with 5 or more power.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.15",
+            "FoilPrice": "0.36",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/078.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "208",
+            "Name": "Final Showdown",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Cunning"
+            ],
+            "Traits": [
+                "GAMBIT"
+            ],
+            "Cost": "6",
+            "FrontText": "Ready each unit you control. At the start of the regroup phase, you lose the game.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "1.44",
+            "FoilPrice": "1.82",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/208.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "152",
+            "Name": "For a Cause I Believe In",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "3",
+            "FrontText": "Reveal the top 4 cards of your deck. For each Heroism card revealed this way, deal 1 damage to an enemy base. You may discard any of the revealed cards and put the rest back on top of your deck in any order.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "3.33",
+            "FoilPrice": "4.13",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/152.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "139",
+            "Name": "Force Choke",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE"
+            ],
+            "Cost": "2",
+            "FrontText": "If you control a FORCE unit, this event costs {C=1} less to play.\nDeal 5 damage to a non-VEHICLE unit. That unit's controller draws a card.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Stefano Landini",
+            "VariantType": "Normal",
+            "MarketPrice": "0.28",
+            "FoilPrice": "0.47",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/139.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "138",
+            "Name": "Force Lightning",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE"
+            ],
+            "Cost": "1",
+            "FrontText": "Choose a unit. It loses all abilities for this phase. Then, if you control a FORCE unit, pay any number of resources and deal 2 damage to the chosen unit for each resource paid this way.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "7.10",
+            "FoilPrice": "9.43",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/138.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "167",
+            "Name": "Force Throw",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "FORCE"
+            ],
+            "Cost": "1",
+            "FrontText": "Choose a player. That player discards a card from their hand. Then, if you control a FORCE unit, you may deal damage to a unit equal to the cost of the discarded card.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Elena Skitalets",
+            "VariantType": "Normal",
+            "MarketPrice": "0.69",
+            "FoilPrice": "0.66",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/167.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "175",
+            "Name": "Forced Surrender",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "PLAN"
+            ],
+            "Cost": "6",
+            "FrontText": "Draw 2 cards. Each opponent whose base you've damaged this phase discards 2 cards from their hand.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.13",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/175.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "235",
+            "Name": "Galactic Ambition",
+            "Type": "Event",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "7",
+            "FrontText": "Play a non-Heroism unit from your hand for free. Deal damage to your base equal to its cost.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Andr\u00e9 Mealha",
+            "VariantType": "Normal",
+            "MarketPrice": "0.23",
+            "FoilPrice": "0.90",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/235.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "144",
+            "Name": "Give In to Your Anger",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "1",
+            "FrontText": "Deal 1 damage to an enemy unit. Its controller's next action this phase must be an attack action with that unit, if able. It must attack a unit, if able.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Cristina Lavi\u00f1a",
+            "VariantType": "Normal",
+            "MarketPrice": "0.30",
+            "FoilPrice": "0.64",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/144.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "145",
+            "Name": "Headhunting",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Villainy"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "2",
+            "FrontText": "Attack with up to 3 units (one at a time). They can't attack bases for these attacks. Each Bounty Hunter that attacks this way gets +2/+0 for its attack.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Borja Pindado",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.15",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/145.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "150",
+            "Name": "Heroic Sacrifice",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Draw a card, then attack with a unit. For this attack, it gets +2/+0 and gains: \"When this unit deals combat damage: Defeat it.\"",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "1.32",
+            "FoilPrice": "2.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/150.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "233",
+            "Name": "I Am Your Father",
+            "Type": "Event",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "GAMBIT"
+            ],
+            "Cost": "3",
+            "FrontText": "Deal 7 Damage to an enemy unit unless its controller says \"no.\" If they do, draw 3 cards.",
+            "DoubleSided": false,
+            "Rarity": "Special",
+            "Unique": false,
+            "Artist": "Stefano Landini",
+            "VariantType": "Normal",
+            "MarketPrice": "0.72",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/233.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "187",
+            "Name": "I Had No Choice",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "7",
+            "FrontText": "Choose up to 2 non-leader units. An opponent chooses 1 of those units. Return that unit to its owner's hand and put the other on the bottom of its owner's deck.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.21",
+            "FoilPrice": "0.35",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/187.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "072",
+            "Name": "I Have the High Ground",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Choose a friendly unit. Each enemy unit gets -4/-0 while attacking that unit this phase.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "James Daly",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/072.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "075",
+            "Name": "It Binds All Things",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "FORCE"
+            ],
+            "Cost": "2",
+            "FrontText": "Heal up to 3 damage from a unit. If you control a FORCE unit, you may deal that much damage to another unit.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "1.13",
+            "FoilPrice": "1.84",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/075.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "151",
+            "Name": "Karabast",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "SPECTRE"
+            ],
+            "Cost": "2",
+            "FrontText": "A friendly unit deals damage to an enemy unit equal to the amount of damage on the friendly unit plus 1.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.12",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/151.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "169",
+            "Name": "Keep Fighting",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "2",
+            "FrontText": "Ready a unit with 3 or less power.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.17",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/169.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "205",
+            "Name": "Let the Wookiee Win",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "2",
+            "FrontText": "An opponent chooses one: \nYou ready up to 6 resources. \nYou ready a friendly unit. If it's a Wookiee unit, attack with it. It gets +2/+0 for this attack.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.31",
+            "FoilPrice": "0.43",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/205.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "227",
+            "Name": "Look the Other Way",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "0",
+            "FrontText": "Exhaust a unit unless its controller pays 2.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/227.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "229",
+            "Name": "Ma Klounkee",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "TRICK"
+            ],
+            "Cost": "1",
+            "FrontText": "Return a friendly non-leader Underworld unit to its owner's hand. If you do, deal 3 damage to a unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Milos Slavkovic",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/229.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "076",
+            "Name": "Make an Opening",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Give a unit -2/-2 for this phase. Heal 2 damage from your base.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Kevin Libranda",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.25",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/076.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "234",
+            "Name": "Maximum Firepower",
+            "Type": "Event",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "TACTIC"
+            ],
+            "Cost": "4",
+            "FrontText": "A friendly IMPERIAL unit deals damage equal to its power to a unit.\nThen, another friendly IMPERIAL unit deals damage equal to its power to the same unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Stephen Zavala",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.17",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/234.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "245",
+            "Name": "Medal Ceremony",
+            "Type": "Event",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL"
+            ],
+            "Cost": "0",
+            "FrontText": "Give an Experience token to each of up to 3 REBEL units that attacked this phase.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/245.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "054",
+            "Name": "Midnight Repairs",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "2",
+            "FrontText": "Heal up to 8 total damage from any number of units.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/054.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "171",
+            "Name": "Mission Briefing",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "PLAN"
+            ],
+            "Cost": "3",
+            "FrontText": "Choose a player. They draw 2 cards.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Kyle Petchock",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.15",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/171.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "130",
+            "Name": "Moment of Glory",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Give a unit +4/+4 for this phase.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Jake Parker",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.14",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/130.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "073",
+            "Name": "Moment of Peace",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "1",
+            "FrontText": "Give a Shield token to a unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.13",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/073.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "051",
+            "Name": "Mystic Reflection",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE"
+            ],
+            "Cost": "1",
+            "FrontText": "Give an enemy unit -2/-0 for this phase. If you control a Force unit, give the enemy unit -2/-2 for this phase instead.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.38",
+            "FoilPrice": "0.68",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/051.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "244",
+            "Name": "No Bargain",
+            "Type": "Event",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "3",
+            "FrontText": "Each opponent discards a card from their hand. Draw a card.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Liana Anatolievich",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.15",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/244.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "186",
+            "Name": "No Good to Me Dead",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "PLAN"
+            ],
+            "Cost": "2",
+            "FrontText": "Exhaust a unit. That unit can't ready this round (including during the regroup phase).",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Denis Medri",
+            "VariantType": "Normal",
+            "MarketPrice": "0.64",
+            "FoilPrice": "0.64",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/186.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "190",
+            "Name": "On the Doorstep",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "4",
+            "FrontText": "Create 3 Battle Droid tokens and ready them.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/190.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "172",
+            "Name": "Open Fire",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Deal 4 damage to a unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Fernando Correa",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.34",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/172.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "128",
+            "Name": "Outflank",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Attack with 2 units (one at a time).",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Kyle Petchock",
+            "VariantType": "Normal",
+            "MarketPrice": "0.12",
+            "FoilPrice": "0.11",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/128.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "221",
+            "Name": "Outmaneuver",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Choose an arena (ground or space). Exhaust each unit in that arena.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Leonardo Giammichele",
+            "VariantType": "Normal",
+            "MarketPrice": "0.25",
+            "FoilPrice": "0.29",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/221.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "092",
+            "Name": "Overwhelming Barrage",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "5",
+            "FrontText": "Give a friendly unit +2/+2 for this phase. Then, it deals damage equal to its power divided as you choose among any number of other units.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Francois Cannels",
+            "VariantType": "Normal",
+            "MarketPrice": "2.71",
+            "FoilPrice": "3.28",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/092.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "094",
+            "Name": "Palpatine's Return",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "PLAN"
+            ],
+            "Cost": "6",
+            "FrontText": "Play a unit from your discard pile. It costs 6 less. If it's a Force unit, it costs 8 less instead.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Lenka \u0160ime\u010dkov\u00e1",
+            "VariantType": "Normal",
+            "MarketPrice": "0.78",
+            "FoilPrice": "1.23",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/094.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "181",
+            "Name": "Pillage",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "4",
+            "FrontText": "Choose a player. They discard 2 cards from their hand.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Denis Medri",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.14",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/181.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "170",
+            "Name": "Power Failure",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "2",
+            "FrontText": "Defeat any number of upgrades on a unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Marc Escachx",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/170.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "041",
+            "Name": "Power of the Dark Side",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "3",
+            "FrontText": "An opponent chooses a unit they control. Defeat that unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.76",
+            "FoilPrice": "1.14",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/041.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "168",
+            "Name": "Precision Fire",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Attack with a unit. It gains SABOTEUR for this attack. If it's a TROOPER, it also gains +2/+0 for this attack. (Ignore Sentinel and defeat the defender's Shields.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Saboteur"
+            ],
+            "Artist": "Ash Pierce",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.23",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/168.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "125",
+            "Name": "Prepare For Takeoff",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "PLAN"
+            ],
+            "Cost": "2",
+            "FrontText": "Search the top 8 cards of your deck for up to 2 VEHICLE units, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/125.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "154",
+            "Name": "Rallying Cry",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Aggression"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Each friendly unit gains RAID 2 this phase. (They get +2/+0 while attacking.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Keywords": [
+                "Raid"
+            ],
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.21",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/154.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "103",
+            "Name": "Rebel Assault",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "REBEL",
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Attack with a REBEL unit. It gets +1/+0 for this attack.\nThen, attack with another REBEL unit. It gets +1/+0 for this attack.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "0.38",
+            "FoilPrice": "0.42",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/103.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "123",
+            "Name": "Recruit",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "1",
+            "FrontText": "Search the top 5 cards of your deck for a unit, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Borja Pindado",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.21",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/123.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "232",
+            "Name": "Relentless Pursuit",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Choose a friendly unit. It captures an enemy non-leader unit that costs the same as or less than it. If the friendly unit is a Bounty Hunter, give a Shield token to it. (Put the captured card facedown under the friendly unit until it leaves play.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Aitor Prieto",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/232.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "093",
+            "Name": "Remnant Reserves",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "4",
+            "FrontText": "Search the top 5 cards of your deck for up to 3 units, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "James Daly",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/093.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "074",
+            "Name": "Repair",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "1",
+            "FrontText": "Heal 3 damage from a unit or base.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.12",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/074.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "252",
+            "Name": "Restock",
+            "Type": "Event",
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "1",
+            "FrontText": "Choose up to 4 cards in a discard pile. Put them on the bottom of their owner's deck in a random order.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.14",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/252.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "126",
+            "Name": "Resupply",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "3",
+            "FrontText": "Put this event into play as a resource.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Robynn Frauhn",
+            "VariantType": "Normal",
+            "MarketPrice": "0.23",
+            "FoilPrice": "0.31",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/126.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "079",
+            "Name": "Rival's Fall",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "6",
+            "FrontText": "Defeat a unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "David Nash",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.18",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/079.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "106",
+            "Name": "Rule with Respect",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "PLAN"
+            ],
+            "Cost": "4",
+            "FrontText": "A friendly unit captures each enemy non-leader unit that attacked your base this phase.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "1.53",
+            "FoilPrice": "1.93",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/106.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "042",
+            "Name": "Search Your Feelings",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "4",
+            "FrontText": "Search your deck for a card and draw it. (Then, shuffle your deck.)",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "David Nash",
+            "VariantType": "Normal",
+            "MarketPrice": "0.59",
+            "FoilPrice": "1.37",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/042.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "217",
+            "Name": "Shoot First",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "1",
+            "FrontText": "Attack with a unit. It gets +1/+0 for this attack and deals its combat damage before the defender. (If the defender is defeated, it deals no combat damage.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.33",
+            "FoilPrice": "0.49",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/217.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "174",
+            "Name": "Smoke and Cinders",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "DISASTER"
+            ],
+            "Cost": "5",
+            "FrontText": "Each player discards all but 2 cards (of their choice) from their hand.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Stefano Landini",
+            "VariantType": "Normal",
+            "MarketPrice": "0.20",
+            "FoilPrice": "0.46",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/174.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "252",
+            "Name": "Smuggler's Aid",
+            "Type": "Event",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "1",
+            "FrontText": "Heal 3 damage from your base. \nSmuggle [C=3 Heroism] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Smuggle"
+            ],
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.07",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/252.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "215",
+            "Name": "Snapshot Reflexes",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "LEARNED"
+            ],
+            "Cost": "1",
+            "FrontText": "When Played: You may attack with attached unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.08",
+            "FoilPrice": "0.26",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/215.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "219",
+            "Name": "Sneak Attack",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "2",
+            "FrontText": "Play a unit from your hand. It costs 3 less and enters play ready. At the start of the regroup phase, defeat it.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "1.31",
+            "FoilPrice": "1.63",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/219.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "206",
+            "Name": "Spare the Target",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Return an enemy non-leader unit to its owner's hand. Collect that unit's Bounties.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Omercan Cirit",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.12",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/206.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "105",
+            "Name": "Spark of Hope",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "2",
+            "FrontText": "Choose a unit in your discard pile. If it was defeated this phase, put it into play as a resource.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.17",
+            "FoilPrice": "0.23",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/105.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "200",
+            "Name": "Spark of Rebellion",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "SPECTRE"
+            ],
+            "Cost": "2",
+            "FrontText": "Look at an opponent's hand and discard a card from it.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Kevin Libranda",
+            "VariantType": "Normal",
+            "MarketPrice": "2.59",
+            "FoilPrice": "3.16",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/200.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "127",
+            "Name": "Strike True",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "A friendly unit deals damage equal to its power to an enemy unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Audrey Hotte",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.20",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/127.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "043",
+            "Name": "Superlaser Blast",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "DISASTER",
+                "TACTIC"
+            ],
+            "Cost": "8",
+            "FrontText": "Defeat all units.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Liana Anatolevich",
+            "VariantType": "Normal",
+            "MarketPrice": "16.74",
+            "FoilPrice": "19.87",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/043.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "220",
+            "Name": "Surprise Strike",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "2",
+            "FrontText": "Attack with a unit. It gets +3/+0 for this attack.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.20",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/220.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "231",
+            "Name": "Surprise Strike",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "2",
+            "FrontText": "Attack with a unit. It gets +3/+0 for this attack.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Murti",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.11",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/231.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "230",
+            "Name": "Swoop Down",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Attack with a space unit. It gains Saboteur and can attack ground units for this attack. If it attacks a ground unit, it gets +2/+0 and the defender gets -2/-0 for this attack.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "James Daly",
+            "VariantType": "Normal",
+            "MarketPrice": "1.10",
+            "FoilPrice": "2.53",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/230.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "099",
+            "Name": "Synchronized Strike",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "2",
+            "FrontText": "Deal damage to an enemy unit equal to the number of units you control in its arena.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Robynn Frauhn",
+            "VariantType": "Normal",
+            "MarketPrice": "36.29",
+            "FoilPrice": "38.05",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/099.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "124",
+            "Name": "Tactical Advantage",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Give a unit +2/+2 for this phase.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.17",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/124.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "131",
+            "Name": "Take Captive",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "A friendly unit captures an enemy non-leader unit in the same arena. (Put the captured card facecdown under that unit until that unit leaves play.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Guillaume Ospital",
+            "VariantType": "Normal",
+            "MarketPrice": "0.05",
+            "FoilPrice": "0.12",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/131.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "077",
+            "Name": "Takedown",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "4",
+            "FrontText": "Defeat a unit with 5 or less remaining HP.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.87",
+            "FoilPrice": "0.92",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/077.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "159",
+            "Name": "The Chaos of War",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression",
+                "Aggression"
+            ],
+            "Traits": [
+                "PLAN"
+            ],
+            "Cost": "3",
+            "FrontText": "Deal damage to each player's base equal to the number of cards in that player's hand.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.39",
+            "FoilPrice": "0.85",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/159.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "091",
+            "Name": "The Emperor's Legion",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "IMPERIAL",
+                "SUPPLY"
+            ],
+            "Cost": "2",
+            "FrontText": "Return each unit in your discard pile that was defeated this phase to your hand.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.48",
+            "FoilPrice": "1.33",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/091.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "055",
+            "Name": "The Force Is With Me",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE"
+            ],
+            "Cost": "4",
+            "FrontText": "Choose a friendly unit and give 2 Experience tokens to it. If you control a FORCE unit, also give a Shield token to the chosen unit.\nYou may attack with the chosen unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Anny Maulina",
+            "VariantType": "Normal",
+            "MarketPrice": "0.28",
+            "FoilPrice": "0.36",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/055.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "253",
+            "Name": "This Is The Way",
+            "Type": "Event",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "MANDALORIAN"
+            ],
+            "Cost": "2",
+            "FrontText": "Search the top 8 cards of your deck for up to 2 Mandalorian and/or upgrade cards, reveal them, and draw them. (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Kyle Petchock",
+            "VariantType": "Normal",
+            "MarketPrice": "0.07",
+            "FoilPrice": "0.21",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/253.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "129",
+            "Name": "Timely Intervention",
+            "Type": "Event",
+            "Aspects": [
+                "Command"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Play a unit from your hand. Give it Ambush for this phase. (When you play it, it may ready and attack an enemy unit.) \nSmuggle [C=2 Command] (If this card is a resource, you may play it for its smuggle cost. Replace it with the top card of your deck.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Denis Medri",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.30",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/129.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "194",
+            "Name": "Triple Dark Raid",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Search the top 7 cards of your deck for a Vehicle and play it. (Put the other cards on the bottom of your deck in a random order.) It costs 5 less and enters play ready. Return it to its owner's hand at the end of the phase.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "2.39",
+            "FoilPrice": "4.05",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/194.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "104",
+            "Name": "U-Wing Reinforcement",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "7",
+            "FrontText": "Search the top 10 cards of your deck for up to 3 units with combined cost 7 or less and play each of them for free. (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "3.93",
+            "FoilPrice": "4.52",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/104.png"
+        },
+        {
+            "Set": "SHD",
+            "Number": "076",
+            "Name": "Unexpected Escape",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "1",
+            "FrontText": "Exhaust a unit. You may rescue a captured card guarded by that unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Alex Chen",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "0.30",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SHD/076.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "078",
+            "Name": "Vanquish",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "5",
+            "FrontText": "Defeat a non-leader unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "0.09",
+            "FoilPrice": "0.28",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/078.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "058",
+            "Name": "Vigilance",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Vigilance"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "4",
+            "FrontText": "Choose two, in any order:\nDiscard 6 cards from an opponent's deck. \nHeal 5 damage from a base. \nDefeat a unit with 3 or less remaining HP. \nGive a Shield token to a unit.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": false,
+            "Artist": "Cristina Lavi\u00f1a",
+            "VariantType": "Normal",
+            "MarketPrice": "35.87",
+            "FoilPrice": "37.87",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/058.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "188",
+            "Name": "Wartime Profiteering",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "1",
+            "FrontText": "Look at cards from the top of your deck equal to the number of units that were defeated this phase. Draw 1 and put the others on the bottom of your deck in a random order.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/188.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "222",
+            "Name": "Waylay",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "3",
+            "FrontText": "Return a non-leader unit to its owner's hand.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.10",
+            "FoilPrice": "0.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/222.png"
+        },
+        {
+            "Set": "SOR",
+            "Number": "246",
+            "Name": "You're My Only Hope",
+            "Type": "Event",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "GAMBIT"
+            ],
+            "Cost": "3",
+            "FrontText": "Look at the top card of your deck. You may play it. It costs 5 less. If your base has 5 or less remaining HP, you may play it for free instead.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Gretel Lusky",
+            "VariantType": "Normal",
+            "MarketPrice": "0.55",
+            "FoilPrice": "0.69",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/SOR/246.png"
+        }
+    ]
+}

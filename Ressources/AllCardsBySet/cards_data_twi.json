@@ -1,0 +1,1107 @@
+{
+    "total_cards": 38,
+    "data": [
+        {
+            "Set": "TWI",
+            "Number": "040",
+            "Name": "A Fine Addition",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "0",
+            "FrontText": "If an enemy unit was defeated this phase, play an upgrade from your hand or from any player's discard pile, ignoring its aspect penalty.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Arthur Mougne",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/040.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "096",
+            "Name": "Aayla Secura",
+            "Subtitle": "Master of the Blade",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "JEDI",
+                "REPUBLIC"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "6",
+            "HP": "5",
+            "FrontText": "Coordinate \u2014 On Attack: Prevent all combat damage that would be dealt to this unit for this attack.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": true,
+            "Keywords": [
+                "Coordinate"
+            ],
+            "Artist": "Tatsiana Maksimuk",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/096.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "092",
+            "Name": "Admiral Yularen",
+            "Subtitle": "Advising Caution",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "REPUBLIC",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "2",
+            "HP": "5",
+            "FrontText": "Restore 1 \nEach other friendly Heroism unit gets +0/+1.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/092.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "173",
+            "Name": "Blood Sport",
+            "Type": "Event",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "FRINGE"
+            ],
+            "Cost": "3",
+            "FrontText": "Deal 2 damage to each ground unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Milos Slavkovic",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/173.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "033",
+            "Name": "Calculating MagnaGuard",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "DROID"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "4",
+            "FrontText": "When Played/When a friendly unit is defeated: This unit gains Sentinel for this phase. (Units in this arena can't attack your non-Sentinel units or your base.)",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Alex Chen",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/033.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "158",
+            "Name": "Clone Heavy Gunner",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "REPUBLIC",
+                "CLONE",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "3",
+            "FrontText": "Coordinate \u2014 This unit gets +2/+0. (Gain this ability while you control 3 or more units.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Coordinate"
+            ],
+            "Artist": "Eslam Aboshady",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/158.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "079",
+            "Name": "Confederate Courier",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "1",
+            "FrontText": "When Defeated: Create a Battle Droid token.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/079.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "005",
+            "Name": "Count Dooku",
+            "Subtitle": "Face of the Confederacy",
+            "Type": "Leader",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "SEPARATIST",
+                "SITH"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "5",
+            "HP": "9",
+            "FrontText": "Action [Exhaust]: Play a Separatist card from your hand. It gains Exploit 1. (You may defeat 1 unit you control. If you do, that card costs 2 less.)",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/005-b.png",
+            "BackText": "Overwhelm (When attacking an enemy unit, deal excess damage to the opponent's base.)\nOn Attack: The next Separatist card you play this phase gains Exploit 3.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/005.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "081",
+            "Name": "Droid Commando",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "DROID",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "4",
+            "HP": "3",
+            "FrontText": "While you control another Separatist unit, this unit gains Ambush. (When you play this unit, it may ready and attack an enemy unit.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Ambush"
+            ],
+            "Artist": "Kyle Petchock",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/081.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "181",
+            "Name": "Elite P-38 Starfighter",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "2",
+            "FrontText": "When Played/When Defeated: You may deal 1 damage to a unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Francois Cannels",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/181.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "055",
+            "Name": "Equalize",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance",
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "3",
+            "FrontText": "Give a unit -2/-2 for this phase. Then, if you control fewer units than that unit's controller, give another unit -2/-2 for this phase.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Kevin Libranda",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/055.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "034",
+            "Name": "General Grievous",
+            "Subtitle": "Trophy Collector",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "4",
+            "HP": "4",
+            "FrontText": "Ignore the aspect penalty on each Lightsaber upgrade you play on this unit. \nOn Attack: If this unit has 4 or more Lightsaber upgrades attached to him, defeat 4 enemy units.",
+            "DoubleSided": false,
+            "Rarity": "Legendary",
+            "Unique": true,
+            "Artist": "French Carlomagno",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/034.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "072",
+            "Name": "I Have the High Ground",
+            "Type": "Event",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "1",
+            "FrontText": "Choose a friendly unit. Each enemy unit gets -4/-0 while attacking that unit this phase.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "James Daly",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/072.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "016",
+            "Name": "Jango Fett",
+            "Subtitle": "Concealing the Conspiracy",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "BOUNTY HUNTER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "3",
+            "HP": "7",
+            "FrontText": "When a friendly unit deals damage to an enemy unit: You may exhaust this leader. If you do, exhaust that enemy unit.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/016-b.png",
+            "BackText": "When a friendly unit deals damage to an enemy unit: You may exhaust that unit.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Jake Parker",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/016.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "165",
+            "Name": "Kit Fisto",
+            "Subtitle": "The Smiling Jedi",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "FORCE",
+                "JEDI",
+                "REPUBLIC"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "6",
+            "Power": "7",
+            "HP": "6",
+            "FrontText": "Saboteur\nCoordinate \u2014 On Attack: You may deal 3 damage to a ground unit. (Gain this ability while you control 3 or more units.)",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Coordinate",
+                "Saboteur"
+            ],
+            "Artist": "Aitor Prieto Reyes",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/165.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "013",
+            "Name": "Mace Windu",
+            "Subtitle": "Vaapad Form Master",
+            "Type": "Leader",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "JEDI",
+                "REPUBLIC"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "5",
+            "HP": "8",
+            "FrontText": "Action [C=1, Exhaust]: Deal 1 damage to a damaged enemy unit. Then, if it has 5 or more damage on it, deal 1 damage to it.",
+            "EpicAction": "Epic Action: If you control 7 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/013-b.png",
+            "BackText": "When Deployed: Deal 2 damage to each damaged enemy unit.",
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Eric Hibbeler",
+            "VariantType": "Normal",
+            "MarketPrice": "0.06",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/013.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "152",
+            "Name": "Mace Windu's Lightsaber",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression",
+                "Heroism"
+            ],
+            "Traits": [
+                "ITEM",
+                "WEAPON",
+                "LIGHTSABER"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "Attach to a non-Vehicle unit. \nWhen Played: If attached unit is Mace Windu, draw 2 cards.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Milos Slavkovic",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/152.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "101",
+            "Name": "Mas Amedda",
+            "Subtitle": "Vice Chair",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Command"
+            ],
+            "Traits": [
+                "REPUBLIC",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "0",
+            "HP": "4",
+            "FrontText": "When you play another unit: You may exhaust this unit. If you do, search the top 4 cards of your deck for a unit, reveal it, and draw it. (Put the other cards on the bottom of your deck in a random order.)",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/101.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "035",
+            "Name": "Morgan Elsbeth",
+            "Subtitle": "Keeper of Many Secrets",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "FORCE",
+                "IMPERIAL",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "4",
+            "Power": "3",
+            "HP": "6",
+            "FrontText": "Restore 1 \nOn Attack: You may defeat another friendly unit. If you do, draw a card.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Keywords": [
+                "Restore"
+            ],
+            "Artist": "David Buisan",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/035.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "002",
+            "Name": "Nute Gunray",
+            "Subtitle": "Vindictive Viceroy",
+            "Type": "Leader",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "0",
+            "Power": "2",
+            "HP": "8",
+            "FrontText": "Action [Exhaust]: If 2 or more friendly units were defeated this phase, create a Battle Droid token.",
+            "EpicAction": "Epic Action: If you control 6 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/002-b.png",
+            "BackText": "On Attack: Create a Battle Droid token.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Aitor Prieto Reyes",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/002.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "219",
+            "Name": "On Top of Things",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "TRICK"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "0",
+            "FrontText": "When Played: Attached unit can't be attacked this phase (unless it has Sentinel).",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Sandra Chlewi\u00f1ska",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/219.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "190",
+            "Name": "On the Doorstep",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "4",
+            "FrontText": "Create 3 Battle Droid tokens and ready them.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/190.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "043",
+            "Name": "Outspoken Representative",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Heroism"
+            ],
+            "Traits": [
+                "REPUBLIC",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "0",
+            "HP": "3",
+            "FrontText": "While you control another Republic unit, this unit gains Sentinel. (Units in this arena can't attack your non-Sentinel units or your base.) \nWhen Defeated: Create a Clone Trooper token.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Sentinel"
+            ],
+            "Artist": "Leonardo Giammichele",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/043.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "019",
+            "Name": "Pau City",
+            "Subtitle": "Utapau",
+            "Type": "Base",
+            "Aspects": [
+                "Vigilance"
+            ],
+            "HP": "26",
+            "FrontText": "Each leader unit you control gets +0/+1.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Roc\u00edo Espin",
+            "VariantType": "Normal",
+            "MarketPrice": "0.15",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/019.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "241",
+            "Name": "Phase I Clone Trooper",
+            "Type": "Unit",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "REPUBLIC",
+                "CLONE",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "3",
+            "HP": "2",
+            "FrontText": "",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Ario Anindito",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/241.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "242",
+            "Name": "Phase II Clone Trooper",
+            "Type": "Unit",
+            "Aspects": [
+                "Heroism"
+            ],
+            "Traits": [
+                "REPUBLIC",
+                "CLONE",
+                "TROOPER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "3",
+            "Power": "3",
+            "HP": "2",
+            "FrontText": "Ambush (When you play this unit, it may ready and attack an enemy unit.)",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Ambush"
+            ],
+            "Artist": "Omercan Cirit",
+            "VariantType": "Normal",
+            "MarketPrice": "1.73",
+            "FoilPrice": "2.27",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/242.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "080",
+            "Name": "Poggle the Lesser",
+            "Subtitle": "Archduke of the Stalgasin Hive",
+            "Type": "Unit",
+            "Aspects": [
+                "Command",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "4",
+            "FrontText": "When you play another unit: You may exhaust this unit. If you do, create a Battle Droid token.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": true,
+            "Artist": "Amad Mir",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/080.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "018",
+            "Name": "Quinlan Vos",
+            "Subtitle": "Sticking the Landing",
+            "Type": "Leader",
+            "Aspects": [
+                "Cunning",
+                "Heroism"
+            ],
+            "Traits": [
+                "FORCE",
+                "JEDI",
+                "REPUBLIC"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "0",
+            "Power": "3",
+            "HP": "7",
+            "FrontText": "When you play a unit: You may exhaust this leader. If you do, deal 1 damage to an enemy unit that costs the same as the played unit.",
+            "EpicAction": "Epic Action: If you control 5 or more resources, deploy this leader.",
+            "DoubleSided": true,
+            "BackArt": "https://cdn.swu-db.com/images/cards/TWI/018-b.png",
+            "BackText": "When you play a unit: You may deal 1 damage to an enemy unit that costs the same as or less than the played unit.",
+            "Rarity": "Common",
+            "Unique": true,
+            "Artist": "Cristina Lavi\u00f1a",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/018.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "025",
+            "Name": "Shadow Collective Camp",
+            "Subtitle": "Zanbar",
+            "Type": "Base",
+            "Aspects": [
+                "Aggression"
+            ],
+            "HP": "25",
+            "FrontText": "When you deploy a leader: Draw a card.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/025.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "099",
+            "Name": "Synchronized Strike",
+            "Type": "Event",
+            "Aspects": [
+                "Command",
+                "Heroism"
+            ],
+            "Traits": [
+                "TACTIC"
+            ],
+            "Cost": "2",
+            "FrontText": "Deal damage to an enemy unit equal to the number of units you control in its arena.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Robynn Frauhn",
+            "VariantType": "Normal",
+            "MarketPrice": "36.29",
+            "FoilPrice": "38.05",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/099.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "184",
+            "Name": "Tactical Droid Commander",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "DROID"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "4",
+            "HP": "4",
+            "FrontText": "Exploit 2 \nWhen you play another Separatist unit: You may exhaust a unit that costs the same as or less than the played unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Keywords": [
+                "Exploit"
+            ],
+            "Artist": "Sebasti\u00e1n Guidobono",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/184.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "234",
+            "Name": "The Invisible Hand",
+            "Subtitle": "Imposing Flagship",
+            "Type": "Unit",
+            "Aspects": [
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "VEHICLE",
+                "CAPITAL SHIP"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "8",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "When Played: Create 4 Battle Droid tokens. \nOn Attack: Exhaust any number of friendly Separatist units. Deal 1 damage to the defending player's base for each unit exhausted this way.",
+            "DoubleSided": false,
+            "Rarity": "Rare",
+            "Unique": false,
+            "Artist": "Jake Parker",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/234.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "217",
+            "Name": "Tri-Droid Suppressor",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "DROID",
+                "VEHICLE",
+                "WALKER"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "7",
+            "Power": "4",
+            "HP": "7",
+            "FrontText": "Exploit 2 (While playing this card, defeat up to 2 units you control. This card costs 2 less for each unit defeated this way.) \nWhen Played: Exhaust an enemy ground unit.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Keywords": [
+                "Exploit"
+            ],
+            "Artist": "Andr\u00e9 Mealha",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/217.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "155",
+            "Name": "Twice the Pride",
+            "Type": "Upgrade",
+            "Aspects": [
+                "Aggression",
+                "Aggression"
+            ],
+            "Traits": [
+                "INNATE"
+            ],
+            "Cost": "2",
+            "Power": "4",
+            "HP": "0",
+            "FrontText": "When Played: Deal 2 damage to attached unit.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Am\u00e9lie Hutt",
+            "VariantType": "Normal",
+            "MarketPrice": "0.11",
+            "FoilPrice": "0.19",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/155.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "160",
+            "Name": "Vanguard Droid Bomber",
+            "Type": "Unit",
+            "Aspects": [
+                "Aggression"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "DROID",
+                "VEHICLE",
+                "FIGHTER"
+            ],
+            "Arenas": [
+                "Space"
+            ],
+            "Cost": "2",
+            "Power": "2",
+            "HP": "2",
+            "FrontText": "When Played: If you control another Separatist unit, deal 2 damage to an enemy base.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Christian Papzoglakis",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/160.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "188",
+            "Name": "Wartime Profiteering",
+            "Type": "Event",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "SUPPLY"
+            ],
+            "Cost": "1",
+            "FrontText": "Look at cards from the top of your deck equal to the number of units that were defeated this phase. Draw 1 and put the others on the bottom of your deck in a random order.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": false,
+            "Artist": "Joshua Carson",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/188.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "032",
+            "Name": "Wartime Trade Official",
+            "Type": "Unit",
+            "Aspects": [
+                "Vigilance",
+                "Villainy"
+            ],
+            "Traits": [
+                "SEPARATIST",
+                "OFFICIAL"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "2",
+            "Power": "1",
+            "HP": "3",
+            "FrontText": "When Defeated: Create a Battle Droid token.",
+            "DoubleSided": false,
+            "Rarity": "Common",
+            "Unique": false,
+            "Artist": "Leonardo Giammichele",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/032.png"
+        },
+        {
+            "Set": "TWI",
+            "Number": "185",
+            "Name": "Ziro the Hutt",
+            "Subtitle": "Colorful Schemer",
+            "Type": "Unit",
+            "Aspects": [
+                "Cunning",
+                "Villainy"
+            ],
+            "Traits": [
+                "UNDERWORLD",
+                "HUTT"
+            ],
+            "Arenas": [
+                "Ground"
+            ],
+            "Cost": "5",
+            "Power": "2",
+            "HP": "8",
+            "FrontText": "When Played: For each opponent, you may exhaust a unit that player controls. \nOn Attack: For each opponent, you may exhaust a resource that player controls.",
+            "DoubleSided": false,
+            "Rarity": "Uncommon",
+            "Unique": true,
+            "Artist": "Marc Escachx",
+            "VariantType": "Normal",
+            "MarketPrice": "0.00",
+            "FoilPrice": "0.00",
+            "FrontArt": "https://cdn.swu-db.com/images/cards/TWI/185.png"
+        }
+    ]
+}
