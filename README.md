@@ -1,10 +1,12 @@
-# Star Wars Unlimited API
+# SWU - API CARDS
 
 ## Description
 
-L'API **Star Wars Unlimited** permet d'accéder aux informations des cartes du jeu de cartes Star Wars, issues de plusieurs sets (par exemple, SHD et SOR). Elle offre des points de terminaison permettant de récupérer les détails des cartes par numéro, par type, par coût, et plus encore.
+L'API **SWU - API CARDS** permet d'accéder aux informations des cartes du jeu de cartes SWU.
+Elle offre des points de terminaison permettant de récupérer les détails des cartes par numéro, par type, par coût, et plus encore.
 
-L'API est construite avec **FastAPI**, un framework moderne et rapide pour créer des APIs RESTful en Python. Elle inclut une documentation interactive générée automatiquement grâce à **Swagger UI**.
+L'API est construite avec **FastAPI**, un framework moderne et rapide pour créer des APIs RESTful en Python. 
+Elle inclut une documentation interactive générée automatiquement grâce à **Swagger UI**.
 
 ## Fonctionnalités
 
@@ -19,7 +21,7 @@ L'API est construite avec **FastAPI**, un framework moderne et rapide pour crée
 Retourne un message de bienvenue pour l'API.
 
 - **Méthode** : `GET`
-- **Réponse** : `{"message": "Bienvenue dans l'API Star Wars Unlimited"}`
+- **Réponse** : `{"message": "Bienvenue dans l'API SWU - CARDS"}`
 
 ### 2. `/cards/{set_name}/{card_number}`
 
