@@ -95,9 +95,3 @@ http://localhost:8000/docs
 ## Contribution
 
 Les contributions sont les bienvenues ! Si vous souhaitez améliorer l'API, veuillez soumettre une pull request avec des explications sur vos changements. Vous pouvez aussi ouvrir une issue pour suggérer de nouvelles fonctionnalités.
-
-## Licence
-
-Ce projet est sous la licence MIT. Voir le fichier `LICENSE` pour plus d'informations.
-
-
