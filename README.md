@@ -75,7 +75,7 @@ http://localhost:8000/docs
 1. Clonez ce repository :
 
     ```bash
-    git clone https://votre-url-de-repository.git
+    git clone https://github.com/Hash8395/SWU-API-CARDS/
     ```
 
 2. Installez les dépendances via `pip` :
