@@ -1,10 +1,12 @@
 from fastapi import FastAPI
-from routes import router
+from app.routes import cards, games, users  # Importer vos fichiers de routes
 
 app = FastAPI()
 
-# Inclure les routes depuis le fichier routes.py
-app.include_router(router)
+# Inclure les routeurs
+app.include_router(cards.router, prefix="/cards", tags=["Cartes"])
+app.include_router(games.router, prefix="/games", tags=["Parties"])
+# app.include_router(users.router, prefix="/users", tags=["Utilisateurs"])
 
 @app.get("/")
 def read_root():
