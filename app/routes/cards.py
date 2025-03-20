@@ -1,6 +1,9 @@
-from fastapi import APIRouter, HTTPException
+from fastapi import APIRouter, HTTPException, Depends
 import json
-from app.models.card import Leader, Unit, Event, Upgrade
+from sqlalchemy.orm import Session
+from app.database import SessionLocal, engine, Base
+from app.models.card import Card, Leader as LeaderModel, Unit as UnitModel, Event as EventModel, Upgrade as UpgradeModel
+from app.schemas import Leader, Unit, Event, Upgrade
 from typing import List
 
 # Charger les données des fichiers JSON
@@ -10,10 +13,97 @@ with open("Ressources/AllCardsBySet/cards_data_sor_modified.json", "r") as sor_f
 with open("Ressources/AllCardsBySet/cards_data_shd_modified.json", "r") as shd_file:
     shd_data = json.load(shd_file)["data"]
 
+with open("Ressources/cards_data_event.json", "r") as event_file:
+    event_data = json.load(event_file)["data"]
+
 # Fusionner les données
-all_cards = {"SOR": sor_data, "SHD": shd_data}
+all_cards = {"SOR": sor_data, "SHD": shd_data, "EVENT": event_data}
 
 router = APIRouter()
+
+# Créer les tables
+Base.metadata.create_all(bind=engine)
+
+# Dépendance pour obtenir la session de base de données
+def get_db():
+    db = SessionLocal()
+    try:
+        yield db
+    finally:
+        db.close()
+
+# Route pour initialiser la base de données avec les données des cartes
+@router.post("/init-db")
+def init_db(db: Session = Depends(get_db)):
+    for set_name, set_data in all_cards.items():
+        for card in set_data:
+            card_type = card["Type"].lower()
+            if card_type == "leader":
+                db_card = LeaderModel(
+                    set_name=set_name,
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    front_text=card.get("FrontText", ""),
+                    epic_action=card.get("EpicAction", ""),
+                    double_sided=card.get("DoubleSided", False),
+                    back_text=card.get("BackText", "")
+                )
+            elif card_type == "unit":
+                db_card = UnitModel(
+                    set_name=set_name,
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    front_text=card.get("FrontText", ""),
+                    double_sided=card.get("DoubleSided", False),
+                    special_abilities=card.get("SpecialAbilities", ""),
+                    actions=card.get("Actions", "")
+                )
+            elif card_type == "event":
+                db_card = EventModel(
+                    set_name=set_name,
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    event_text=card.get("FrontText", ""),
+                    event_cost=card.get("Cost", 0)
+                )
+            elif card_type == "upgrade":
+                db_card = UpgradeModel(
+                    set_name=set_name,
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    upgrade_text=card.get("UpgradeText", ""),
+                    effect=card.get("Effect", ""),
+                    attach_to=card.get("AttachTo", ""),
+                    upgrade_cost=card.get("UpgradeCost", "")
+                )
+            else:
+                db_card = Card(
+                    set_name=set_name,
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    cost=card.get("Cost", ""),
+                    power=card.get("Power", ""),
+                    hp=card.get("HP", ""),
+                    is_unique=card.get("Unique", False),
+                    artist=card.get("Artist", ""),
+                    variant_type=card.get("VariantType", ""),
+                    market_price=card.get("MarketPrice", ""),
+                    foil_price=card.get("FoilPrice", ""),
+                    front_art=card.get("FrontArt", "")
+                )
+            db.add(db_card)
+    db.commit()
+    return {"message": "Base de données initialisée avec succès"}
 
 # -------------------- ROUTES POUR LES CARTES --------------------
 

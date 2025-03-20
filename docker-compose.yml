@@ -1,28 +1,36 @@
 services:
-  db:
+  postgres:
     image: postgres:15
     container_name: swu_postgres
     restart: always
     environment:
-      POSTGRES_DB: swu_api_cards
       POSTGRES_USER: swu_user
-      POSTGRES_PASSWORD: SuperSecret!
+      POSTGRES_PASSWORD: swu_password
+      POSTGRES_DB: swu_api_cards
     ports:
       - "5432:5432"
     volumes:
-      - postgres_data:/var/lib/postgresql/data
+      - pg_data:/var/lib/postgresql/data
+    networks:
+      - host_network
 
   pgadmin:
     image: dpage/pgadmin4
     container_name: swu_pgadmin
     restart: always
     environment:
-      PGADMIN_DEFAULT_EMAIL: toto@toto.com
-      PGADMIN_DEFAULT_PASSWORD: toto
+      PGADMIN_DEFAULT_EMAIL: admin@swu.com
+      PGADMIN_DEFAULT_PASSWORD: admin
     ports:
-      - "5050:80"  
+      - "5050:80"
+    depends_on:
+      - postgres
+    networks:
+      - host_network
+
+networks:
+  host_network:
+    external: true
 
 volumes:
-  postgres_data:
-    driver: local
-
+  pg_data:

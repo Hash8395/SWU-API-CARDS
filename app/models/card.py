@@ -1,12 +1,13 @@
 from sqlalchemy import Column, Integer, String, Boolean, ForeignKey, Text
 from sqlalchemy.orm import relationship
-from .database import Base
+from app.database import Base
 
 class Card(Base):
     __tablename__ = "cards"
     
     id = Column(Integer, primary_key=True, index=True)
-    set_name = Column(String, nullable=False)
+    set_name = Column(String, 
+                      nullable=False)
     number = Column(String, unique=True, nullable=False)
     name = Column(String, nullable=False)
     subtitle = Column(String, nullable=True)
