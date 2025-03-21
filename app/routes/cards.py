@@ -112,7 +112,17 @@ def get_unit(card_number: str):
     for set_name, set_data in all_cards.items():
         for card in set_data:
             if card["Type"] == "Unit" and card["Number"] == card_number:
-                return Unit(**card)
+                return Unit(
+                    set_name=card["Set"],
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    front_text=card.get("FrontText", ""),
+                    double_sided=card.get("DoubleSided", False),
+                    special_abilities=card.get("SpecialAbilities", ""),
+                    actions=card.get("Actions", "")
+                )
     raise HTTPException(status_code=404, detail="Unit not found")
 
 @router.get("/leader/{card_number}", response_model=Leader)
@@ -120,7 +130,17 @@ def get_leader(card_number: str):
     for set_name, set_data in all_cards.items():
         for card in set_data:
             if card["Type"] == "Leader" and card["Number"] == card_number:
-                return Leader(**card)
+                return Leader(
+                    set_name=card["Set"],
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    front_text=card.get("FrontText", ""),
+                    epic_action=card.get("EpicAction", ""),
+                    double_sided=card.get("DoubleSided", False),
+                    back_text=card.get("BackText", "")
+                )
     raise HTTPException(status_code=404, detail="Leader not found")
 
 @router.get("/event/{card_number}", response_model=Event)
@@ -128,7 +148,15 @@ def get_event(card_number: str):
     for set_name, set_data in all_cards.items():
         for card in set_data:
             if card["Type"] == "Event" and card["Number"] == card_number:
-                return Event(**card)
+                return Event(
+                    set_name=card["Set"],
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    event_text=card.get("FrontText", ""),
+                    event_cost=card.get("Cost", 0)
+                )
     raise HTTPException(status_code=404, detail="Event not found")
 
 @router.get("/upgrade/{card_number}", response_model=Upgrade)
@@ -136,7 +164,17 @@ def get_upgrade(card_number: str):
     for set_name, set_data in all_cards.items():
         for card in set_data:
             if card["Type"] == "Upgrade" and card["Number"] == card_number:
-                return Upgrade(**card)
+                return Upgrade(
+                    set_name=card["Set"],
+                    number=card["Number"],
+                    name=card["Name"],
+                    type=card["Type"],
+                    rarity=card["Rarity"],
+                    upgrade_text=card.get("UpgradeText", ""),
+                    effect=card.get("Effect", ""),
+                    attach_to=card.get("AttachTo", ""),
+                    upgrade_cost=card.get("UpgradeCost", "")
+                )
     raise HTTPException(status_code=404, detail="Upgrade not found")
 
 # --------- ROUTES POUR LES CARTES EXISTANTES ---------
